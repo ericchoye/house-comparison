@@ -1,0 +1,2257 @@
+{
+  "schemaVersion": 1,
+  "title": "大埔透天，放在一起比較。",
+  "location": "苗栗・竹南",
+  "updatedAt": "2026-10-04",
+  "observedRange": [
+    "2026-10-03",
+    "2026-10-04"
+  ],
+  "recentCutoff": "2025-10-04",
+  "officialBatch": {
+    "name": "115S3",
+    "source": "https://plvr.land.moi.gov.tw/DownloadSeason?season=115S3&type=zip&fileName=lvr_landcsv.zip",
+    "checkedAt": "2026-10-04",
+    "sha256": "f051aa476927cc419689cc0aa3c204748efeb2e870e42069dc7ca31abed7d26a",
+    "scope": "苗栗縣；指定街道2026年透天買賣有限樣本，非完整區域市場"
+  },
+  "properties": [
+    {
+      "id": "S20813311",
+      "name": "上品十六",
+      "address": "苗栗縣竹南鎮科專三路112巷1號",
+      "shortAddress": "科專三路112巷1號",
+      "sourceUrl": "https://sale.591.com.tw/home/house/detail/2/20813311.html",
+      "image": "https://img2.591.com.tw/house/2026/08/29/178799225373373807.jpg!1000x.water2.jpg",
+      "askingPrice": 2498,
+      "area": 65.12,
+      "mainArea": 62.38,
+      "accessoryArea": 2.74,
+      "landArea": 36.18,
+      "layout": "4房3廳4衛",
+      "rooms": 4,
+      "ageLabel": "2年",
+      "floorLabel": "整棟/4F",
+      "direction": "待確認",
+      "managementFee": "無",
+      "legalUse": "住家用",
+      "parkingField": "無",
+      "parkingClaim": "室內加庭院宣稱可停4車",
+      "parkingArea": null,
+      "parkingPrice": null,
+      "broker": "飛鷹地產頭份中興加盟店",
+      "expiresAt": "2026-10-28",
+      "sourceUpdated": "9小時前",
+      "firstObserved": "2026-10-03",
+      "checkedAt": "2026-10-04",
+      "referenceSummary": "同巷2號 2,350萬｜開價高6.3%",
+      "referenceCaveat": "同社區2號2026-08-12成交2,350萬，建65.12坪；地36.18坪沿用永慶轉載並由本次搜尋摘要交叉確認。1號開價多148萬（6.3%）。不同戶仍需比較土地持分、位置、屋況及停車；本批成交為平台轉載，非本次直接官方核對",
+      "keyQuestion": "多148萬的依據？位置、屋況及停車權利待核",
+      "issues": [
+        {
+          "title": "格局說法不一致",
+          "detail": "頭部4房3廳4衛；內文4房2廳4衛；疑似同戶永義4房2廳3衛。保留頭部原值並標記格局待確認，不自動合併。",
+          "sources": [
+            "https://sale.591.com.tw/home/house/detail/2/20813311.html",
+            "https://buy.yungching.com.tw/house/6897907"
+          ]
+        },
+        {
+          "title": "住家或住店用途待核",
+          "detail": "標題宣稱店面；591法定用途住家用；疑似同戶永義登記用途其他。需謄本/使用執照與可營業用途核實。",
+          "sources": [
+            "https://sale.591.com.tw/home/house/detail/2/20813311.html",
+            "https://buy.yungching.com.tw/house/6897907"
+          ]
+        },
+        {
+          "title": "停車空間與登記權利待核",
+          "detail": "591欄位無；文字宣稱可停4車；疑似同戶永義獨立車庫。停車權利、合法位置與可停車數尚未核證。",
+          "sources": [
+            "https://sale.591.com.tw/home/house/detail/2/20813311.html",
+            "https://buy.yungching.com.tw/house/6897907"
+          ]
+        },
+        {
+          "title": "平台成交筆數口徑不同",
+          "detail": "社區網頁標題35筆/內文19筆；本次觀察的刊登頁顯示36筆。不得把不同呈現範圍/快照計數混合；本檔僅列6筆明確案例。",
+          "sources": [
+            "https://market.591.com.tw/5885448",
+            "https://sale.591.com.tw/home/house/detail/2/20813311.html",
+            "https://market.591.com.tw/5885448/price"
+          ]
+        },
+        {
+          "title": "開價高於同型2號近期成交6.3%",
+          "detail": "2號2026-08-12成交2,350萬、建65.12坪，地坪36.18坪由既有平台轉載及本次搜尋摘要支持。本案開價2,498萬，多148萬（6.3%）；相同建坪與土地總坪數仍不代表位置、持分、屋況及停車條件完全相同。",
+          "sources": [
+            "https://toestate.tw/community/592477",
+            "https://evertrust.yungching.com.tw/regionall/%E8%8B%97%E6%A0%97%E7%B8%A3/%E4%B8%8D%E9%99%90/1?a=2&d=60&t="
+          ]
+        },
+        {
+          "title": "模型偏高判定須保留土地及停車限制",
+          "detail": "ToEstate參考總價約2,266萬、統計區間2,081–2,321萬，開價高10.2%。算法以相似成交加權中位與模型綜合參考單價乘65.12坪，區間按案例25–75百分位比例換算。模型未明確納入地坪、臨路位置、裝潢；無車位為平台假設，不代表現場不能停車。不是建議出價或銀行鑑價，優先與2號同型戶比較。",
+          "sources": [
+            "https://toestate.tw/community/592477"
+          ]
+        },
+        {
+          "title": "本戶歷史及小坪數戶不能混作當前行情",
+          "detail": "1號2022-05-27的1,950萬、2號2023-11-22的1,828萬均有預售屋或分件登記備註；本次補正分類。5、8號約58.06坪，8號另有一樓空地增建備註，不直接以其總價比較65.12坪待售戶。",
+          "sources": [
+            "https://toestate.tw/community/592477",
+            "https://market.591.com.tw/5885448"
+          ]
+        }
+      ],
+      "transactions": [
+        {
+          "id": "shangpin-2026-08-2",
+          "date": "2026-08-12",
+          "datePrecision": "day",
+          "address": "科專三路112巷2號",
+          "total": 2350,
+          "area": 65.12,
+          "land": 36.18,
+          "unit": 36.0859,
+          "unitBasis": "ToEstate轉載申報單價；未自行分拆停車價值",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://toestate.tw/community/592477",
+          "official": false,
+          "serial": "RPSNMLTKQHLGFDK27DA",
+          "scope": "同社區不同戶；ToEstate轉載，非直接官方核對",
+          "isNearby": false,
+          "note": "永慶搜尋結果明標內政部實登；591刊登頁的實登區亦顯示115-08資料。門牌是2號，不能當待售1號本戶前次成交。 2026-10-04補核：ToEstate提供日精度、申報序號及較精確坪數；仍為平台轉載。 本次未回傳備註，不代表已查無屋況或產權問題。 地坪36.18沿用原永慶轉載及本次永慶／信義搜尋摘要，非ToEstate回傳土地面積。",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "id": "moi-RPPNMLTJPHLGFDK76DA",
+          "date": "2026-06-24",
+          "datePrecision": "day",
+          "address": "科專五路301巷6號",
+          "total": 1698.0,
+          "area": 57.841025,
+          "land": 22.69355,
+          "unit": 29.356364,
+          "unitBasis": "官方申報單價；未拆停車",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://plvr.land.moi.gov.tw/DownloadSeason?season=115S3&type=zip&fileName=lvr_landcsv.zip",
+          "official": true,
+          "serial": "RPPNMLTJPHLGFDK76DA",
+          "scope": "周邊同街道；非同社區／距離未核",
+          "isNearby": true,
+          "note": "其他增建為一樓增建沿著加蓋陽台外推；頂樓加蓋；其他增建； 屋齡依完工日 2024-06-13 判讀；用途 住家用，格局 3房2廳3衛。",
+          "checkedAt": "2026-10-04",
+          "sourceFile": "k_lvr_land_a.csv",
+          "sourceLine": 608
+        },
+        {
+          "id": "moi-RPSNMLLMPHLGFDK56DA",
+          "date": "2026-06-24",
+          "datePrecision": "day",
+          "address": "科專五路301巷5號",
+          "total": 1783.0,
+          "area": 57.841025,
+          "land": 22.696575,
+          "unit": 30.825785,
+          "unitBasis": "官方申報單價；未拆停車",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://plvr.land.moi.gov.tw/DownloadSeason?season=115S3&type=zip&fileName=lvr_landcsv.zip",
+          "official": true,
+          "serial": "RPSNMLLMPHLGFDK56DA",
+          "scope": "周邊同街道；非同社區／距離未核",
+          "isNearby": true,
+          "note": "此筆官方備註欄未填；不代表已查無其他屋況或產權問題。 屋齡依完工日 2024-06-13 判讀；用途 住家用，格局 3房3廳4衛。",
+          "checkedAt": "2026-10-04",
+          "sourceFile": "k_lvr_land_a.csv",
+          "sourceLine": 633
+        },
+        {
+          "id": "moi-RPQOMLQJPHLGFDK66DA",
+          "date": "2026-06-09",
+          "datePrecision": "day",
+          "address": "大埔里2鄰科專五路28號",
+          "total": 1960.0,
+          "area": 52.523075,
+          "land": 24.4299,
+          "unit": 37.317025,
+          "unitBasis": "官方申報單價；未拆停車",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://plvr.land.moi.gov.tw/DownloadSeason?season=115S3&type=zip&fileName=lvr_landcsv.zip",
+          "official": true,
+          "serial": "RPQOMLQJPHLGFDK66DA",
+          "scope": "周邊同街道；非同社區／距離未核",
+          "isNearby": true,
+          "note": "其他增建； 屋齡依完工日 2020-12-14 判讀；用途 住家用，格局 4房2廳5衛。",
+          "checkedAt": "2026-10-04",
+          "sourceFile": "k_lvr_land_a.csv",
+          "sourceLine": 591
+        },
+        {
+          "id": "moi-RPPNMLPKPHLGFDK09DA",
+          "date": "2026-06-07",
+          "datePrecision": "day",
+          "address": "大埔里2鄰科專三路122巷20號",
+          "total": 1840.0,
+          "area": 56.624975,
+          "land": 29.44535,
+          "unit": 32.494545,
+          "unitBasis": "官方申報單價；未拆停車",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://plvr.land.moi.gov.tw/DownloadSeason?season=115S3&type=zip&fileName=lvr_landcsv.zip",
+          "official": true,
+          "serial": "RPPNMLPKPHLGFDK09DA",
+          "scope": "周邊同街道；非同社區／距離未核",
+          "isNearby": true,
+          "note": "此筆官方備註欄未填；不代表已查無其他屋況或產權問題。 屋齡依完工日 2015-04-29 判讀；用途 住家用，格局 4房3廳3衛。",
+          "checkedAt": "2026-10-04",
+          "sourceFile": "k_lvr_land_a.csv",
+          "sourceLine": 682
+        },
+        {
+          "id": "moi-RPRNMLMKOHLGFDK88DA",
+          "date": "2026-06-03",
+          "datePrecision": "day",
+          "address": "大埔里2鄰科專五路150巷3號",
+          "total": 2283.0,
+          "area": 77.037675,
+          "land": 28.7617,
+          "unit": 29.634711,
+          "unitBasis": "官方申報單價；未拆停車",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://plvr.land.moi.gov.tw/DownloadSeason?season=115S3&type=zip&fileName=lvr_landcsv.zip",
+          "official": true,
+          "serial": "RPRNMLMKOHLGFDK88DA",
+          "scope": "周邊同街道；非同社區／距離未核",
+          "isNearby": true,
+          "note": "其他增建； 屋齡依完工日 2015-05-04 判讀；用途 住家用，格局 4房3廳5衛。",
+          "checkedAt": "2026-10-04",
+          "sourceFile": "k_lvr_land_a.csv",
+          "sourceLine": 533
+        },
+        {
+          "id": "moi-RPTNMLKLPHLGFDK09DA",
+          "date": "2026-05-22",
+          "datePrecision": "day",
+          "address": "大埔里2鄰科專三路60巷12號",
+          "total": 2040.0,
+          "area": 62.26055,
+          "land": 23.68575,
+          "unit": 32.76562,
+          "unitBasis": "官方申報單價；未拆停車",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://plvr.land.moi.gov.tw/DownloadSeason?season=115S3&type=zip&fileName=lvr_landcsv.zip",
+          "official": true,
+          "serial": "RPTNMLKLPHLGFDK09DA",
+          "scope": "周邊同街道；非同社區／距離未核",
+          "isNearby": true,
+          "note": "此筆官方備註欄未填；不代表已查無其他屋況或產權問題。 屋齡依完工日 2025-04-28 判讀；用途 住家用，格局 3房2廳3衛。",
+          "checkedAt": "2026-10-04",
+          "sourceFile": "k_lvr_land_a.csv",
+          "sourceLine": 963
+        },
+        {
+          "id": "moi-RPSNMLPLNHLGFDK66DA",
+          "date": "2026-05-20",
+          "datePrecision": "day",
+          "address": "大埔里1鄰科專五路518巷7號",
+          "total": 2458.0,
+          "area": 71.132875,
+          "land": 28.649775,
+          "unit": 34.555041,
+          "unitBasis": "官方申報單價；未拆停車",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://plvr.land.moi.gov.tw/DownloadSeason?season=115S3&type=zip&fileName=lvr_landcsv.zip",
+          "official": true,
+          "serial": "RPSNMLPLNHLGFDK66DA",
+          "scope": "周邊同街道；非同社區／距離未核",
+          "isNearby": true,
+          "note": "此筆官方備註欄未填；不代表已查無其他屋況或產權問題。 屋齡依完工日 2024-11-26 判讀；用途 住家用，格局 3房2廳3衛。",
+          "checkedAt": "2026-10-04",
+          "sourceFile": "k_lvr_land_a.csv",
+          "sourceLine": 829
+        },
+        {
+          "id": "moi-RPQNMLRKOHLGFDK66DA",
+          "date": "2026-05-02",
+          "datePrecision": "day",
+          "address": "大埔里2鄰大埔三街195巷16號",
+          "total": 2088.0,
+          "area": 56.24685,
+          "land": 26.247925,
+          "unit": 37.121983,
+          "unitBasis": "官方申報單價；未拆停車",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://plvr.land.moi.gov.tw/DownloadSeason?season=115S3&type=zip&fileName=lvr_landcsv.zip",
+          "official": true,
+          "serial": "RPQNMLRKOHLGFDK66DA",
+          "scope": "周邊同街道；非同社區／距離未核",
+          "isNearby": true,
+          "note": "1樓法空增建、2樓3樓4樓後陽台作室內空間使用其他增建； 屋齡依完工日 2023-12-08 判讀；用途 住家用，格局 4房2廳3衛。",
+          "checkedAt": "2026-10-04",
+          "sourceFile": "k_lvr_land_a.csv",
+          "sourceLine": 840
+        },
+        {
+          "id": "moi-RPOOMLOJOHLGFDK78DA",
+          "date": "2026-04-27",
+          "datePrecision": "day",
+          "address": "大埔里2鄰科專五路33巷7號",
+          "total": 1768.0,
+          "area": 42.62225,
+          "land": 22.109725,
+          "unit": 41.480661,
+          "unitBasis": "官方申報單價；未拆停車",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://plvr.land.moi.gov.tw/DownloadSeason?season=115S3&type=zip&fileName=lvr_landcsv.zip",
+          "official": true,
+          "serial": "RPOOMLOJOHLGFDK78DA",
+          "scope": "周邊同街道；非同社區／距離未核",
+          "isNearby": true,
+          "note": "陽台外推； 屋齡依完工日 2024-05-21 判讀；用途 住家用，格局 2房1廳3衛。",
+          "checkedAt": "2026-10-04",
+          "sourceFile": "k_lvr_land_a.csv",
+          "sourceLine": 1160
+        },
+        {
+          "id": "moi-RPUNMLQKOHLGFDK96DA",
+          "date": "2026-03-29",
+          "datePrecision": "day",
+          "address": "大埔里2鄰科專三路98巷12號",
+          "total": 1850.0,
+          "area": 62.076025,
+          "land": 26.381025,
+          "unit": 29.802314,
+          "unitBasis": "官方申報單價；未拆停車",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://plvr.land.moi.gov.tw/DownloadSeason?season=115S3&type=zip&fileName=lvr_landcsv.zip",
+          "official": true,
+          "serial": "RPUNMLQKOHLGFDK96DA",
+          "scope": "周邊同街道；非同社區／距離未核",
+          "isNearby": true,
+          "note": "此筆官方備註欄未填；不代表已查無其他屋況或產權問題。 屋齡依完工日 2023-11-30 判讀；用途 住家用，格局 3房2廳3衛。",
+          "checkedAt": "2026-10-04",
+          "sourceFile": "k_lvr_land_a.csv",
+          "sourceLine": 1540
+        },
+        {
+          "id": "shangpin-2026-03-8",
+          "date": "2026-03-26",
+          "datePrecision": "day",
+          "address": "科專三路112巷8號",
+          "total": 1888,
+          "area": 58.06,
+          "land": null,
+          "unit": 32.5154,
+          "unitBasis": "ToEstate轉載申報單價；未自行分拆停車價值",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://toestate.tw/community/592477",
+          "official": false,
+          "serial": "RPTNMLQJNHLGFDK66DA",
+          "scope": "同社區不同戶；ToEstate轉載，非直接官方核對",
+          "isNearby": false,
+          "note": "591公開成交表；顯示無車位/車位0萬，面積為四捨五入。實體庭院停車與獨立登記車位不同。 2026-10-04補核：ToEstate提供日精度、申報序號及較精確坪數；仍為平台轉載。 原備註：其他增建為一樓空地增建其他增建;",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "id": "shangpin-2025-10-5",
+          "date": "2025-10-28",
+          "datePrecision": "day",
+          "address": "科專三路112巷5號",
+          "total": 1950,
+          "area": 58.06,
+          "land": null,
+          "unit": 33.5831,
+          "unitBasis": "ToEstate轉載申報單價；未自行分拆停車價值",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://toestate.tw/community/592477",
+          "official": false,
+          "serial": "RPTNMLSJKIKGFDK56DA",
+          "scope": "同社區不同戶；ToEstate轉載，非直接官方核對",
+          "isNearby": false,
+          "note": "591公開成交表；顯示無車位/車位0萬，面積為四捨五入。 2026-10-04補核：ToEstate提供日精度、申報序號及較精確坪數；仍為平台轉載。 本次未回傳備註，不代表已查無屋況或產權問題。",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "id": "shangpin-2025-02-2",
+          "date": "2025-02-11",
+          "datePrecision": "day",
+          "address": "科專三路112巷2號",
+          "total": 2315,
+          "area": 65.12,
+          "land": null,
+          "unit": 35.5484,
+          "unitBasis": "ToEstate轉載申報單價；未自行分拆停車價值",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://toestate.tw/community/592477",
+          "official": false,
+          "serial": "RPPOMLQKMHKGFDK88DA",
+          "scope": "同社區不同戶；ToEstate轉載，非直接官方核對",
+          "isNearby": false,
+          "note": "未直接核對內政部逐筆資料；僅列為成交參考，不用於銀行鑑價。 2026-10-04補核：ToEstate提供日精度、申報序號及較精確坪數；仍為平台轉載。 本次未回傳備註，不代表已查無屋況或產權問題。",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "id": "shangpin-2023-11-2",
+          "date": "2023-11-22",
+          "datePrecision": "day",
+          "address": "科專三路112巷2號",
+          "total": 1828,
+          "area": 65.12,
+          "land": null,
+          "unit": 28.0704,
+          "unitBasis": "ToEstate轉載申報單價；未自行分拆停車價值",
+          "phase": "presale_or_separate_registration",
+          "phaseLabel": "歷史預售／分件登記",
+          "url": "https://toestate.tw/community/592477",
+          "official": false,
+          "serial": "RPXNMLMLPHJGFDK86DA",
+          "scope": "同社區不同戶；ToEstate轉載，非直接官方核對",
+          "isNearby": false,
+          "note": "歷史案件，未核申報類型；不併入近一年可比成交統計。 2026-10-04補核：ToEstate提供日精度、申報序號及較精確坪數；仍為平台轉載。 原備註：預售屋、或土地及建物分件登記案件; 以上歷史／類型待核為舊觀察；本次依ToEstate原備註補標歷史預售／分件登記。",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "id": "shangpin-2022-05-1",
+          "date": "2022-05-27",
+          "datePrecision": "day",
+          "address": "科專三路112巷1號",
+          "total": 1950,
+          "area": 65.12,
+          "land": null,
+          "unit": 29.9438,
+          "unitBasis": "ToEstate轉載申報單價；未自行分拆停車價值",
+          "phase": "presale_or_separate_registration",
+          "phaseLabel": "歷史預售／分件登記",
+          "url": "https://toestate.tw/community/592477",
+          "official": false,
+          "serial": "RPWNMLMLPHJGFDK76DA",
+          "scope": "同門牌1號歷史紀錄；刊登與權狀對應仍待核",
+          "isNearby": false,
+          "note": "591門牌同待售頁1號，但仍需謄本/標的確認方可視本戶歷史成交；歷史案件不併入近期比較。 2026-10-04補核：ToEstate提供日精度、申報序號及較精確坪數；仍為平台轉載。 原備註：預售屋、或土地及建物分件登記案件; 以上歷史／類型待核為舊觀察；本次依ToEstate原備註補標歷史預售／分件登記。",
+          "checkedAt": "2026-10-04"
+        }
+      ],
+      "transactionScope": "預設顯示同社區轉載與已識別同巷案例，另可切換周邊街道。本版官方街道樣本共10筆（含同巷），涵蓋科專三路、科專五路、大埔三街2026年透天買賣；未採固定距離半徑，也不代表全部成交。",
+      "crossListings": [
+        {
+          "url": "https://buy.yungching.com.tw/house/6897907",
+          "platform": "永義/永慶房仲網",
+          "match": "疑似同戶，尚未確認",
+          "price": 2588,
+          "description": "建坪 65.12 · 地坪 36.18 · 格局 4房2廳3衛 · 樓層 1~4/4樓 · 用途 其他",
+          "basis": "同社區、建65.12坪、地36.18坪、主62.38坪、4層；尚無完整門牌交叉證明",
+          "checkedAt": "2026-10-03",
+          "caveat": "web搜尋快照顯示約3個月前擷取，未當即時售價。"
+        },
+        {
+          "url": "https://community.rakuya.com.tw/83964/sell",
+          "platform": "community.rakuya.com.tw",
+          "match": "同社區，非已確認同戶",
+          "price": null,
+          "description": "",
+          "basis": "社區彙整頁，非單一確認戶",
+          "checkedAt": "2026-10-03",
+          "caveat": "搜尋快照與直接開頁內容年代不一致，僅留交叉查核入口，不用作最新行情。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://sale.591.com.tw/home/house/detail/2/20813311.html",
+          "label": "591原始物件",
+          "kind": "刊登資訊",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "url": "https://market.591.com.tw/5885448/overview",
+          "label": "market.591.com.tw・社區資料",
+          "kind": "建案／社區資料",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "url": "https://buy.yungching.com.tw/house/6897907",
+          "label": "永義/永慶房仲網",
+          "kind": "跨站參考・尚未確認同戶",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "url": "https://community.rakuya.com.tw/83964/sell",
+          "label": "community.rakuya.com.tw",
+          "kind": "跨站參考・尚未確認同戶",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "url": "https://evertrust.yungching.com.tw/regionall/%E8%8B%97%E6%A0%97%E7%B8%A3?a=&c=&d=6&l=1&s=1&t=4",
+          "label": "evertrust.yungching.com.tw・成交資料",
+          "kind": "平台轉載實價登錄",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "url": "https://plvr.land.moi.gov.tw/DownloadSeason?season=115S3&type=zip&fileName=lvr_landcsv.zip",
+          "label": "內政部115S3・苗栗縣買賣批次",
+          "kind": "官方批次",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "url": "https://market.591.com.tw/5885448",
+          "label": "market.591.com.tw・成交資料",
+          "kind": "平台轉載實價登錄",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "url": "https://toestate.tw/community/592477",
+          "label": "ToEstate上品十六・門牌成交及比較分析",
+          "kind": "插件實登轉載／有條件模型試算",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "url": "https://evertrust.yungching.com.tw/regionall/%E8%8B%97%E6%A0%97%E7%B8%A3/%E4%B8%8D%E9%99%90/1?a=2&d=60&t=",
+          "label": "永慶2號近期成交搜尋摘要",
+          "kind": "搜尋摘要，直接開頁受限",
+          "checkedAt": "2026-10-04"
+        }
+      ],
+      "communityFacts": [
+        {
+          "label": "建商",
+          "value": "居品建設企業股份有限公司"
+        },
+        {
+          "label": "建築師",
+          "value": "許文光建築師事務所"
+        },
+        {
+          "label": "戶數",
+          "value": 16
+        },
+        {
+          "label": "結構",
+          "value": "RC造"
+        },
+        {
+          "label": "土地使用分區",
+          "value": "住宅區"
+        },
+        {
+          "label": "建照號碼（平台）",
+          "value": "111栗商建竹建字第00013號"
+        },
+        {
+          "label": "交屋時間（平台）",
+          "value": "2024年11月"
+        },
+        {
+          "label": "完工日（ToEstate轉載）",
+          "value": "2024-06-04；原平台2024年11月為交屋時間，語意不同"
+        }
+      ],
+      "communitySources": [
+        {
+          "url": "https://market.591.com.tw/5885448/overview",
+          "label": "market.591.com.tw"
+        },
+        {
+          "url": "https://toestate.tw/community/592477",
+          "label": "ToEstate・建物屬性"
+        }
+      ],
+      "history": [
+        {
+          "date": "2026-10-03",
+          "description": "首次收錄此591物件，觀察開價 2,498 萬。未取得首次刊登或委託起日。"
+        },
+        {
+          "date": "2026-10-04",
+          "description": "匯入官方115S3有限批次，與平台轉載分開標示。"
+        },
+        {
+          "date": "2026-10-04",
+          "description": "使用者再次提供1號開價2,498萬。ToEstate核對同社區2號2026-08-12成交2,350萬，本案高148萬（6.3%）。沿用6個原成交ID補日精度與序號，1號2022／2號2023舊紀錄補標預售或分件登記，8號補一樓空地增建備註。模型參考約2,266萬附土地與停車假設限制；既有筆記保留。"
+        }
+      ],
+      "sourceFacts": {
+        "address": {
+          "evidence_type": "platform_claim"
+        }
+      }
+    },
+    {
+      "id": "S20733977",
+      "name": "千瓣白",
+      "address": "苗栗縣竹南鎮科專五路",
+      "shortAddress": "科專五路",
+      "sourceUrl": "https://sale.591.com.tw/home/house/detail/2/20733977.html",
+      "image": "https://img2.591.com.tw/house/2026/08/14/178669753371565700.jpg!1000x.water2.jpg",
+      "askingPrice": 3288,
+      "area": 67.44,
+      "mainArea": 62.14,
+      "accessoryArea": 5.3,
+      "landArea": 30.63,
+      "layout": "4房2廳4衛",
+      "rooms": 4,
+      "ageLabel": "6個月",
+      "floorLabel": "整棟/5F",
+      "direction": "坐東朝西",
+      "managementFee": "1200元/年",
+      "legalUse": "住商用",
+      "parkingField": "無",
+      "parkingClaim": "一樓前院可停雙車",
+      "parkingArea": null,
+      "parkingPrice": null,
+      "broker": "有巢氏房屋頭份尚順東民加盟店",
+      "expiresAt": "2026-10-13",
+      "sourceUpdated": null,
+      "firstObserved": "2026-10-03",
+      "checkedAt": "2026-10-04",
+      "referenceSummary": "以歷史預售為主",
+      "referenceCaveat": "62.98–68.81坪歷史預售總價2,608–2,888萬；另有101.88坪3,988萬大戶，分開閱讀。缺近期同條件成屋案例",
+      "keyQuestion": "住商用途、管理費及樓層待核",
+      "issues": [
+        {
+          "title": "住家或住店用途待核",
+          "detail": "原591住商用；疑似同戶有巢氏及台慶住家用。先保留分來源值；謄本與使用執照待核。",
+          "sources": [
+            "https://sale.591.com.tw/home/house/detail/2/20733977.html",
+            "https://buy.yungching.com.tw/house/7475663",
+            "https://sale.591.com.tw/home/house/detail/2/20772963.html"
+          ]
+        },
+        {
+          "title": "停車空間與登記權利待核",
+          "detail": "原591車位無；文字前院雙車；疑似台慶平面車位含價。實體可停不等於有独立登記車位；不推算車位價坪數。",
+          "sources": [
+            "https://sale.591.com.tw/home/house/detail/2/20733977.html",
+            "https://buy.yungching.com.tw/house/7475663",
+            "https://sale.591.com.tw/home/house/detail/2/20772963.html"
+          ]
+        },
+        {
+          "title": "管理費與收費單位待核",
+          "detail": "原591每年1200；疑似台慶無。同戶尚未確定，管理費單位及是否收取待核。",
+          "sources": [
+            "https://sale.591.com.tw/home/house/detail/2/20733977.html",
+            "https://sale.591.com.tw/home/house/detail/2/20772963.html"
+          ]
+        },
+        {
+          "title": "登記樓層與現況待核",
+          "detail": "乐居社區4層；疑似同戶有巢氏5層。社區/個別戶差異或登記與現況差異，需使用執照核對，不自行判違建。",
+          "sources": [
+            "https://www.leju.com.tw/community/Ledf146813bb8e7",
+            "https://buy.yungching.com.tw/house/7475663"
+          ]
+        },
+        {
+          "title": "平台成交統計範圍不同",
+          "detail": "樂居14筆最高2888；房地王14筆最高3988含2026/02 A1。來源更新/範圍不一致，不採任一網站整體平均直接估價。",
+          "sources": [
+            "https://www.leju.com.tw/community/Ledf146813bb8e7",
+            "https://hsinchu.housetube.tw/48638/realprice"
+          ]
+        },
+        {
+          "title": "跨站坪數略有差異",
+          "detail": "原591建67.44／主62.14／地30.63坪；有巢氏建67.45／主62.15／地30.64坪。保留分來源原值；可能為換算或登載差異，未取得謄本與完整門牌前不判定同戶或自行平均。",
+          "sources": [
+            "https://sale.591.com.tw/home/house/detail/2/20733977.html",
+            "https://buy.yungching.com.tw/house/7475663"
+          ]
+        }
+      ],
+      "transactions": [
+        {
+          "id": "moi-RPPNMLTJPHLGFDK76DA",
+          "date": "2026-06-24",
+          "datePrecision": "day",
+          "address": "科專五路301巷6號",
+          "total": 1698.0,
+          "area": 57.841025,
+          "land": 22.69355,
+          "unit": 29.356364,
+          "unitBasis": "官方申報單價；未拆停車",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://plvr.land.moi.gov.tw/DownloadSeason?season=115S3&type=zip&fileName=lvr_landcsv.zip",
+          "official": true,
+          "serial": "RPPNMLTJPHLGFDK76DA",
+          "scope": "周邊同街道；非同社區／距離未核",
+          "isNearby": true,
+          "note": "其他增建為一樓增建沿著加蓋陽台外推；頂樓加蓋；其他增建； 屋齡依完工日 2024-06-13 判讀；用途 住家用，格局 3房2廳3衛。",
+          "checkedAt": "2026-10-04",
+          "sourceFile": "k_lvr_land_a.csv",
+          "sourceLine": 608
+        },
+        {
+          "id": "moi-RPSNMLLMPHLGFDK56DA",
+          "date": "2026-06-24",
+          "datePrecision": "day",
+          "address": "科專五路301巷5號",
+          "total": 1783.0,
+          "area": 57.841025,
+          "land": 22.696575,
+          "unit": 30.825785,
+          "unitBasis": "官方申報單價；未拆停車",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://plvr.land.moi.gov.tw/DownloadSeason?season=115S3&type=zip&fileName=lvr_landcsv.zip",
+          "official": true,
+          "serial": "RPSNMLLMPHLGFDK56DA",
+          "scope": "周邊同街道；非同社區／距離未核",
+          "isNearby": true,
+          "note": "此筆官方備註欄未填；不代表已查無其他屋況或產權問題。 屋齡依完工日 2024-06-13 判讀；用途 住家用，格局 3房3廳4衛。",
+          "checkedAt": "2026-10-04",
+          "sourceFile": "k_lvr_land_a.csv",
+          "sourceLine": 633
+        },
+        {
+          "id": "moi-RPQOMLQJPHLGFDK66DA",
+          "date": "2026-06-09",
+          "datePrecision": "day",
+          "address": "大埔里2鄰科專五路28號",
+          "total": 1960.0,
+          "area": 52.523075,
+          "land": 24.4299,
+          "unit": 37.317025,
+          "unitBasis": "官方申報單價；未拆停車",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://plvr.land.moi.gov.tw/DownloadSeason?season=115S3&type=zip&fileName=lvr_landcsv.zip",
+          "official": true,
+          "serial": "RPQOMLQJPHLGFDK66DA",
+          "scope": "周邊同街道；非同社區／距離未核",
+          "isNearby": true,
+          "note": "其他增建； 屋齡依完工日 2020-12-14 判讀；用途 住家用，格局 4房2廳5衛。",
+          "checkedAt": "2026-10-04",
+          "sourceFile": "k_lvr_land_a.csv",
+          "sourceLine": 591
+        },
+        {
+          "id": "moi-RPPNMLPKPHLGFDK09DA",
+          "date": "2026-06-07",
+          "datePrecision": "day",
+          "address": "大埔里2鄰科專三路122巷20號",
+          "total": 1840.0,
+          "area": 56.624975,
+          "land": 29.44535,
+          "unit": 32.494545,
+          "unitBasis": "官方申報單價；未拆停車",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://plvr.land.moi.gov.tw/DownloadSeason?season=115S3&type=zip&fileName=lvr_landcsv.zip",
+          "official": true,
+          "serial": "RPPNMLPKPHLGFDK09DA",
+          "scope": "周邊同街道；非同社區／距離未核",
+          "isNearby": true,
+          "note": "此筆官方備註欄未填；不代表已查無其他屋況或產權問題。 屋齡依完工日 2015-04-29 判讀；用途 住家用，格局 4房3廳3衛。",
+          "checkedAt": "2026-10-04",
+          "sourceFile": "k_lvr_land_a.csv",
+          "sourceLine": 682
+        },
+        {
+          "id": "moi-RPRNMLMKOHLGFDK88DA",
+          "date": "2026-06-03",
+          "datePrecision": "day",
+          "address": "大埔里2鄰科專五路150巷3號",
+          "total": 2283.0,
+          "area": 77.037675,
+          "land": 28.7617,
+          "unit": 29.634711,
+          "unitBasis": "官方申報單價；未拆停車",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://plvr.land.moi.gov.tw/DownloadSeason?season=115S3&type=zip&fileName=lvr_landcsv.zip",
+          "official": true,
+          "serial": "RPRNMLMKOHLGFDK88DA",
+          "scope": "周邊同街道；非同社區／距離未核",
+          "isNearby": true,
+          "note": "其他增建； 屋齡依完工日 2015-05-04 判讀；用途 住家用，格局 4房3廳5衛。",
+          "checkedAt": "2026-10-04",
+          "sourceFile": "k_lvr_land_a.csv",
+          "sourceLine": 533
+        },
+        {
+          "id": "moi-RPTNMLKLPHLGFDK09DA",
+          "date": "2026-05-22",
+          "datePrecision": "day",
+          "address": "大埔里2鄰科專三路60巷12號",
+          "total": 2040.0,
+          "area": 62.26055,
+          "land": 23.68575,
+          "unit": 32.76562,
+          "unitBasis": "官方申報單價；未拆停車",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://plvr.land.moi.gov.tw/DownloadSeason?season=115S3&type=zip&fileName=lvr_landcsv.zip",
+          "official": true,
+          "serial": "RPTNMLKLPHLGFDK09DA",
+          "scope": "周邊同街道；非同社區／距離未核",
+          "isNearby": true,
+          "note": "此筆官方備註欄未填；不代表已查無其他屋況或產權問題。 屋齡依完工日 2025-04-28 判讀；用途 住家用，格局 3房2廳3衛。",
+          "checkedAt": "2026-10-04",
+          "sourceFile": "k_lvr_land_a.csv",
+          "sourceLine": 963
+        },
+        {
+          "id": "moi-RPSNMLPLNHLGFDK66DA",
+          "date": "2026-05-20",
+          "datePrecision": "day",
+          "address": "大埔里1鄰科專五路518巷7號",
+          "total": 2458.0,
+          "area": 71.132875,
+          "land": 28.649775,
+          "unit": 34.555041,
+          "unitBasis": "官方申報單價；未拆停車",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://plvr.land.moi.gov.tw/DownloadSeason?season=115S3&type=zip&fileName=lvr_landcsv.zip",
+          "official": true,
+          "serial": "RPSNMLPLNHLGFDK66DA",
+          "scope": "周邊同街道；非同社區／距離未核",
+          "isNearby": true,
+          "note": "此筆官方備註欄未填；不代表已查無其他屋況或產權問題。 屋齡依完工日 2024-11-26 判讀；用途 住家用，格局 3房2廳3衛。",
+          "checkedAt": "2026-10-04",
+          "sourceFile": "k_lvr_land_a.csv",
+          "sourceLine": 829
+        },
+        {
+          "id": "moi-RPQNMLRKOHLGFDK66DA",
+          "date": "2026-05-02",
+          "datePrecision": "day",
+          "address": "大埔里2鄰大埔三街195巷16號",
+          "total": 2088.0,
+          "area": 56.24685,
+          "land": 26.247925,
+          "unit": 37.121983,
+          "unitBasis": "官方申報單價；未拆停車",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://plvr.land.moi.gov.tw/DownloadSeason?season=115S3&type=zip&fileName=lvr_landcsv.zip",
+          "official": true,
+          "serial": "RPQNMLRKOHLGFDK66DA",
+          "scope": "周邊同街道；非同社區／距離未核",
+          "isNearby": true,
+          "note": "1樓法空增建、2樓3樓4樓後陽台作室內空間使用其他增建； 屋齡依完工日 2023-12-08 判讀；用途 住家用，格局 4房2廳3衛。",
+          "checkedAt": "2026-10-04",
+          "sourceFile": "k_lvr_land_a.csv",
+          "sourceLine": 840
+        },
+        {
+          "id": "moi-RPOOMLOJOHLGFDK78DA",
+          "date": "2026-04-27",
+          "datePrecision": "day",
+          "address": "大埔里2鄰科專五路33巷7號",
+          "total": 1768.0,
+          "area": 42.62225,
+          "land": 22.109725,
+          "unit": 41.480661,
+          "unitBasis": "官方申報單價；未拆停車",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://plvr.land.moi.gov.tw/DownloadSeason?season=115S3&type=zip&fileName=lvr_landcsv.zip",
+          "official": true,
+          "serial": "RPOOMLOJOHLGFDK78DA",
+          "scope": "周邊同街道；非同社區／距離未核",
+          "isNearby": true,
+          "note": "陽台外推； 屋齡依完工日 2024-05-21 判讀；用途 住家用，格局 2房1廳3衛。",
+          "checkedAt": "2026-10-04",
+          "sourceFile": "k_lvr_land_a.csv",
+          "sourceLine": 1160
+        },
+        {
+          "id": "moi-RPUNMLQKOHLGFDK96DA",
+          "date": "2026-03-29",
+          "datePrecision": "day",
+          "address": "大埔里2鄰科專三路98巷12號",
+          "total": 1850.0,
+          "area": 62.076025,
+          "land": 26.381025,
+          "unit": 29.802314,
+          "unitBasis": "官方申報單價；未拆停車",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://plvr.land.moi.gov.tw/DownloadSeason?season=115S3&type=zip&fileName=lvr_landcsv.zip",
+          "official": true,
+          "serial": "RPUNMLQKOHLGFDK96DA",
+          "scope": "周邊同街道；非同社區／距離未核",
+          "isNearby": true,
+          "note": "此筆官方備註欄未填；不代表已查無其他屋況或產權問題。 屋齡依完工日 2023-11-30 判讀；用途 住家用，格局 3房2廳3衛。",
+          "checkedAt": "2026-10-04",
+          "sourceFile": "k_lvr_land_a.csv",
+          "sourceLine": 1540
+        },
+        {
+          "id": "qianban-2026-02-a1",
+          "date": "2026-02",
+          "datePrecision": "month",
+          "address": "科專五路上 A1棟",
+          "total": 3988,
+          "area": 101.88,
+          "land": 58.17,
+          "unit": null,
+          "unitBasis": "平台單價；未核分算",
+          "phase": "presale",
+          "phaseLabel": "預售屋",
+          "url": "https://hsinchu.housetube.tw/48638/realprice",
+          "official": false,
+          "serial": null,
+          "scope": "同社區轉載案例，尚未確認為本戶",
+          "isNearby": false,
+          "note": "來源頁明標內政部實登，最新資料日期2026/02/02；A1面積明顯大於67坪待售戶，不宜直接對比總價。",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "id": "qianban-2024-07-b3",
+          "date": "2024-07",
+          "datePrecision": "month",
+          "address": "科專五路上 B3棟",
+          "total": 2608,
+          "area": 62.98,
+          "land": 23.08,
+          "unit": null,
+          "unitBasis": "平台單價；未核分算",
+          "phase": "presale",
+          "phaseLabel": "預售屋",
+          "url": "https://hsinchu.housetube.tw/48638/realprice",
+          "official": false,
+          "serial": null,
+          "scope": "同社區轉載案例，尚未確認為本戶",
+          "isNearby": false,
+          "note": "未直接核對內政部逐筆資料；僅列為成交參考，不用於銀行鑑價。",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "id": "qianban-2024-06-b6",
+          "date": "2024-06",
+          "datePrecision": "month",
+          "address": "科專五路上 B6棟",
+          "total": 2608,
+          "area": 62.98,
+          "land": 23.08,
+          "unit": null,
+          "unitBasis": "平台單價；未核分算",
+          "phase": "presale",
+          "phaseLabel": "預售屋",
+          "url": "https://hsinchu.housetube.tw/48638/realprice",
+          "official": false,
+          "serial": null,
+          "scope": "同社區轉載案例，尚未確認為本戶",
+          "isNearby": false,
+          "note": "未直接核對內政部逐筆資料；僅列為成交參考，不用於銀行鑑價。",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "id": "qianban-2024-06-b1",
+          "date": "2024-06",
+          "datePrecision": "month",
+          "address": "科專五路上 B1棟",
+          "total": 2888,
+          "area": 68.81,
+          "land": 33.47,
+          "unit": null,
+          "unitBasis": "平台單價；未核分算",
+          "phase": "presale",
+          "phaseLabel": "預售屋",
+          "url": "https://hsinchu.housetube.tw/48638/realprice",
+          "official": false,
+          "serial": null,
+          "scope": "同社區轉載案例，尚未確認為本戶",
+          "isNearby": false,
+          "note": "未直接核對內政部逐筆資料；僅列為成交參考，不用於銀行鑑價。",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "id": "qianban-2024-06-a7",
+          "date": "2024-06",
+          "datePrecision": "month",
+          "address": "科專五路上 A7棟",
+          "total": 2798,
+          "area": 66.95,
+          "land": 30.77,
+          "unit": null,
+          "unitBasis": "平台單價；未核分算",
+          "phase": "presale",
+          "phaseLabel": "預售屋",
+          "url": "https://hsinchu.housetube.tw/48638/realprice",
+          "official": false,
+          "serial": null,
+          "scope": "同社區轉載案例，尚未確認為本戶",
+          "isNearby": false,
+          "note": "未直接核對內政部逐筆資料；僅列為成交參考，不用於銀行鑑價。",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "id": "qianban-2024-06-a6",
+          "date": "2024-06",
+          "datePrecision": "month",
+          "address": "科專五路上 A6棟",
+          "total": 2798,
+          "area": 65.95,
+          "land": 30.67,
+          "unit": null,
+          "unitBasis": "平台單價；未核分算",
+          "phase": "presale",
+          "phaseLabel": "預售屋",
+          "url": "https://hsinchu.housetube.tw/48638/realprice",
+          "official": false,
+          "serial": null,
+          "scope": "同社區轉載案例，尚未確認為本戶",
+          "isNearby": false,
+          "note": "未直接核對內政部逐筆資料；僅列為成交參考，不用於銀行鑑價。",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "transactionScope": "預設顯示同社區轉載與已識別同巷案例，另可切換周邊街道。本版官方街道樣本共10筆（含同巷），涵蓋科專三路、科專五路、大埔三街2026年透天買賣；未採固定距離半徑，也不代表全部成交。",
+      "crossListings": [
+        {
+          "url": "https://buy.yungching.com.tw/house/7475663",
+          "platform": "有巢氏/永慶房仲網",
+          "match": "疑似同戶，尚未確認",
+          "price": 3288,
+          "description": "建坪 67.45 · 地坪 30.64 · 格局 4房2廳4衛 · 樓層 1~5/5樓 · 用途 住家用",
+          "basis": "案名、街道、加盟店/公司與特色敘述一致；591建67.44坪與有巢氏67.45坪相近但仍有面積差，完整門牌未公開。",
+          "checkedAt": "2026-10-03",
+          "caveat": "公開仲介平台欄位，不是產權證明；web開頁快照屋齡0.5年、搜尋快照0.6年。"
+        },
+        {
+          "url": "https://sale.591.com.tw/home/house/detail/2/20772963.html",
+          "platform": "591台慶不動產頭份昌隆富強加盟店",
+          "match": "疑似同戶，尚未確認",
+          "price": 3288,
+          "description": "建坪 67.44 · 地坪 30.63 · 格局 4房2廳4衛 · 樓層 1~5層 · 用途 住家用",
+          "basis": "同社區、同開價3288、67.44坪、主62.14、地30.63、4房2廳4衛與庭院停車，無完整門牌核實",
+          "checkedAt": "2026-10-03",
+          "caveat": ""
+        },
+        {
+          "url": "https://www.myhomes.com.tw/mo/sale/1336333",
+          "platform": "我家網",
+          "match": "同社區，非已確認同戶",
+          "price": 2768,
+          "description": "建坪 63.59 · 地坪 23.14 · 格局 4房2廳3衛 · 樓層 整棟/5樓 · 用途 住家用",
+          "basis": "同社區但建坪、地坪與衛浴數不同，不能併為同戶",
+          "checkedAt": "2026-10-03",
+          "caveat": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://sale.591.com.tw/home/house/detail/2/20733977.html",
+          "label": "591原始物件",
+          "kind": "刊登資訊",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "url": "https://www.leju.com.tw/community/Ledf146813bb8e7",
+          "label": "www.leju.com.tw・社區資料",
+          "kind": "建案／社區資料",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "url": "https://buy.yungching.com.tw/house/7475663",
+          "label": "有巢氏/永慶房仲網",
+          "kind": "跨站參考・尚未確認同戶",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "url": "https://sale.591.com.tw/home/house/detail/2/20772963.html",
+          "label": "591台慶不動產頭份昌隆富強加盟店",
+          "kind": "跨站參考・尚未確認同戶",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "url": "https://www.myhomes.com.tw/mo/sale/1336333",
+          "label": "我家網",
+          "kind": "跨站參考・尚未確認同戶",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "url": "https://plvr.land.moi.gov.tw/DownloadSeason?season=115S3&type=zip&fileName=lvr_landcsv.zip",
+          "label": "內政部115S3・苗栗縣買賣批次",
+          "kind": "官方批次",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "url": "https://hsinchu.housetube.tw/48638/realprice",
+          "label": "hsinchu.housetube.tw・成交資料",
+          "kind": "平台轉載實價登錄",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "communityFacts": [
+        {
+          "label": "建商",
+          "value": "富奕建設"
+        },
+        {
+          "label": "建築師",
+          "value": "楊書銘建築師事務所"
+        },
+        {
+          "label": "營造廠",
+          "value": "良岳營造"
+        },
+        {
+          "label": "戶數",
+          "value": 14
+        },
+        {
+          "label": "結構",
+          "value": "RC"
+        },
+        {
+          "label": "土地使用分區",
+          "value": "住1"
+        }
+      ],
+      "communitySources": [
+        {
+          "url": "https://www.leju.com.tw/community/Ledf146813bb8e7",
+          "label": "www.leju.com.tw"
+        }
+      ],
+      "history": [
+        {
+          "date": "2026-10-03",
+          "description": "首次收錄此591物件，觀察開價 3,288 萬。未取得首次刊登或委託起日。"
+        },
+        {
+          "date": "2026-10-04",
+          "description": "匯入官方115S3有限批次，與平台轉載分開標示。"
+        }
+      ],
+      "sourceFacts": {
+        "address": {
+          "evidence_type": "platform_claim"
+        }
+      }
+    },
+    {
+      "id": "S20763483",
+      "name": "珈泰逸墅",
+      "address": "苗栗縣竹南鎮科專三路60巷13號",
+      "shortAddress": "科專三路60巷13號",
+      "sourceUrl": "https://sale.591.com.tw/home/house/detail/2/20763483.html",
+      "image": "https://img1.591.com.tw/house/2026/04/18/177650046530757802.jpg!1000x.water2.jpg",
+      "askingPrice": 2280,
+      "area": 62.26,
+      "mainArea": 55.539,
+      "accessoryArea": null,
+      "landArea": 23.687,
+      "layout": "3房3廳3衛",
+      "rooms": 3,
+      "ageLabel": "10個月",
+      "floorLabel": "1F~4F/4F",
+      "direction": "朝南（文案）",
+      "managementFee": "無",
+      "legalUse": "住家用",
+      "parkingField": "平面式，已含售金內",
+      "parkingClaim": "文案宣稱室內雙車",
+      "parkingArea": null,
+      "parkingPrice": null,
+      "broker": "永義房屋新竹金雅品宅店",
+      "expiresAt": "2026-10-18",
+      "sourceUpdated": null,
+      "firstObserved": "2026-10-03",
+      "checkedAt": "2026-10-04",
+      "referenceSummary": "同巷12號 2,040萬｜開價高11.8%",
+      "referenceCaveat": "2026-05-22同巷12號官方成交2,040萬，建62.26055／地23.68575坪，與13號刊登坪數接近；2,280萬多240萬（11.8%）。不同戶僅1筆高度相近案例，須比較朝向、屋況、裝潢與停車。ToEstate含車位試算有未核假設，不作本案鑑價",
+      "keyQuestion": "比同巷成交多240萬，朝向、屋況與停車差異能否支持？",
+      "issues": [
+        {
+          "title": "格局說法不一致",
+          "detail": "原591 JSON-LD：3房；社區在售同名刊登3房3廳；大家房屋疑似戶：4房2廳3衛；樂屋同名疑似戶：4房2廳3衛。保留分來源格局；需完整門牌與格局圖確認同戶及現況。",
+          "sources": [
+            "https://sale.591.com.tw/home/house/detail/2/20763483.html",
+            "https://market.591.com.tw/5903060",
+            "https://www.great-home.com.tw/detail/?sn=hBS63322",
+            "https://vip.rakuya.com.tw/0910995195/sell"
+          ]
+        },
+        {
+          "title": "朝向與戶別待核",
+          "detail": "原591朝南；大家房屋疑似戶座南朝北。可能不同戶或廣告錯植，不自動合併。",
+          "sources": [
+            "https://sale.591.com.tw/home/house/detail/2/20763483.html",
+            "https://www.great-home.com.tw/detail/?sn=hBS63322"
+          ]
+        },
+        {
+          "title": "來源內容待確認",
+          "detail": "591建案規劃地上4層；同社區永慶7121690刊登1~5/5樓。不同戶或登記/現況口徑有別；不得自行判違建，本戶樓層仍待查。",
+          "sources": [
+            "https://market.591.com.tw/5903060/overview",
+            "https://buy.yungching.com.tw/house/7121690"
+          ]
+        },
+        {
+          "title": "來源內容待確認",
+          "detail": "591及樂居約1年、地上4層；宅好房卻標2016年、約10年，案例是科專三路23號5樓。宅好房疑將對面門牌其他大樓混入，排除其交易與均價，不作本社區成交證据。",
+          "sources": [
+            "https://market.591.com.tw/5903060/overview",
+            "https://www.leju.com.tw/community/L801136876a6709",
+            "https://zhaihouse.com/communities/%E8%8B%97%E6%A0%97%E7%B8%A3/%E7%8F%88%E6%B3%B0%E9%80%B8%E5%A2%85"
+          ]
+        },
+        {
+          "title": "13號門牌待文件核對",
+          "detail": "使用者提供本案為科專三路60巷13號；591刊登頁先前僅顯示巷名，尚未以謄本核對。官方2026/05同巷12號成交為不同門牌，不視為本戶歷史。",
+          "sources": [
+            "https://sale.591.com.tw/home/house/detail/2/20763483.html",
+            "https://plvr.land.moi.gov.tw/DownloadSeason?season=115S3&type=zip&fileName=lvr_landcsv.zip"
+          ]
+        },
+        {
+          "title": "開價比最接近近期成交高11.8%",
+          "detail": "同巷12號2026-05-22成交2,040萬、建62.26055坪、地23.68575坪，與本案2,280萬／62.26坪／23.687坪接近；价差240萬。ToEstate將兩門牌歸同社區、完工日同為2025-04-28。只有一筆高度相近近期案例，仍待現勘及產權核對，不等於本案正式估價。",
+          "sources": [
+            "https://plvr.land.moi.gov.tw/DownloadSeason?season=115S3&type=zip&fileName=lvr_landcsv.zip",
+            "https://toestate.tw/community/592480"
+          ]
+        },
+        {
+          "title": "ToEstate車位試算假設未核，不當作合理價",
+          "detail": "輸入含車位62.26坪時，模型自行扣8.4坪並加150萬坡道平面車位估值，未證實適用此透天；回傳參考總價約2,107萬、區間1,948–2,170萬及略高判定僅保存為有條件模型結果，不作本案合理價區間。社區近一年筆數亦漏列12號近期成交，已改以地址搜尋及官方CSV交叉核對。",
+          "sources": [
+            "https://toestate.tw/community/592480",
+            "https://plvr.land.moi.gov.tw/DownloadSeason?season=115S3&type=zip&fileName=lvr_landcsv.zip"
+          ]
+        },
+        {
+          "title": "13號舊紀錄是預售或分件登記",
+          "detail": "ToEstate精確門牌1885129回傳2022-12-13、1,913萬、62.26坪，原備註為預售屋或土地及建物分件登記；不列入近期成屋比較，也不據此推算賣方淨利。門牌可查得不代表591廣告已與權狀核對。",
+          "sources": [
+            "https://toestate.tw/community/592480"
+          ]
+        },
+        {
+          "title": "管理費及刊登屋齡仍有差異",
+          "detail": "591既有欄位為管理費無、屋齡10個月；本次大家房屋疑似戶仍標每月1,500元、朝北及4房2廳；ToEstate13號完工日2025-04-28（查詢時約1.43年）。保留原刊登與人工資料，不合併疑似戶，待權狀、管委會及現場確認。",
+          "sources": [
+            "https://sale.591.com.tw/home/house/detail/2/20763483.html",
+            "https://www.great-home.com.tw/detail/?sn=hBS63322",
+            "https://toestate.tw/community/592480"
+          ]
+        }
+      ],
+      "transactions": [
+        {
+          "id": "moi-RPPNMLTJPHLGFDK76DA",
+          "date": "2026-06-24",
+          "datePrecision": "day",
+          "address": "科專五路301巷6號",
+          "total": 1698.0,
+          "area": 57.841025,
+          "land": 22.69355,
+          "unit": 29.356364,
+          "unitBasis": "官方申報單價；未拆停車",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://plvr.land.moi.gov.tw/DownloadSeason?season=115S3&type=zip&fileName=lvr_landcsv.zip",
+          "official": true,
+          "serial": "RPPNMLTJPHLGFDK76DA",
+          "scope": "周邊同街道；非同社區／距離未核",
+          "isNearby": true,
+          "note": "其他增建為一樓增建沿著加蓋陽台外推；頂樓加蓋；其他增建； 屋齡依完工日 2024-06-13 判讀；用途 住家用，格局 3房2廳3衛。",
+          "checkedAt": "2026-10-04",
+          "sourceFile": "k_lvr_land_a.csv",
+          "sourceLine": 608
+        },
+        {
+          "id": "moi-RPSNMLLMPHLGFDK56DA",
+          "date": "2026-06-24",
+          "datePrecision": "day",
+          "address": "科專五路301巷5號",
+          "total": 1783.0,
+          "area": 57.841025,
+          "land": 22.696575,
+          "unit": 30.825785,
+          "unitBasis": "官方申報單價；未拆停車",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://plvr.land.moi.gov.tw/DownloadSeason?season=115S3&type=zip&fileName=lvr_landcsv.zip",
+          "official": true,
+          "serial": "RPSNMLLMPHLGFDK56DA",
+          "scope": "周邊同街道；非同社區／距離未核",
+          "isNearby": true,
+          "note": "此筆官方備註欄未填；不代表已查無其他屋況或產權問題。 屋齡依完工日 2024-06-13 判讀；用途 住家用，格局 3房3廳4衛。",
+          "checkedAt": "2026-10-04",
+          "sourceFile": "k_lvr_land_a.csv",
+          "sourceLine": 633
+        },
+        {
+          "id": "moi-RPQOMLQJPHLGFDK66DA",
+          "date": "2026-06-09",
+          "datePrecision": "day",
+          "address": "大埔里2鄰科專五路28號",
+          "total": 1960.0,
+          "area": 52.523075,
+          "land": 24.4299,
+          "unit": 37.317025,
+          "unitBasis": "官方申報單價；未拆停車",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://plvr.land.moi.gov.tw/DownloadSeason?season=115S3&type=zip&fileName=lvr_landcsv.zip",
+          "official": true,
+          "serial": "RPQOMLQJPHLGFDK66DA",
+          "scope": "周邊同街道；非同社區／距離未核",
+          "isNearby": true,
+          "note": "其他增建； 屋齡依完工日 2020-12-14 判讀；用途 住家用，格局 4房2廳5衛。",
+          "checkedAt": "2026-10-04",
+          "sourceFile": "k_lvr_land_a.csv",
+          "sourceLine": 591
+        },
+        {
+          "id": "moi-RPPNMLPKPHLGFDK09DA",
+          "date": "2026-06-07",
+          "datePrecision": "day",
+          "address": "大埔里2鄰科專三路122巷20號",
+          "total": 1840.0,
+          "area": 56.624975,
+          "land": 29.44535,
+          "unit": 32.494545,
+          "unitBasis": "官方申報單價；未拆停車",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://plvr.land.moi.gov.tw/DownloadSeason?season=115S3&type=zip&fileName=lvr_landcsv.zip",
+          "official": true,
+          "serial": "RPPNMLPKPHLGFDK09DA",
+          "scope": "周邊同街道；非同社區／距離未核",
+          "isNearby": true,
+          "note": "此筆官方備註欄未填；不代表已查無其他屋況或產權問題。 屋齡依完工日 2015-04-29 判讀；用途 住家用，格局 4房3廳3衛。",
+          "checkedAt": "2026-10-04",
+          "sourceFile": "k_lvr_land_a.csv",
+          "sourceLine": 682
+        },
+        {
+          "id": "moi-RPRNMLMKOHLGFDK88DA",
+          "date": "2026-06-03",
+          "datePrecision": "day",
+          "address": "大埔里2鄰科專五路150巷3號",
+          "total": 2283.0,
+          "area": 77.037675,
+          "land": 28.7617,
+          "unit": 29.634711,
+          "unitBasis": "官方申報單價；未拆停車",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://plvr.land.moi.gov.tw/DownloadSeason?season=115S3&type=zip&fileName=lvr_landcsv.zip",
+          "official": true,
+          "serial": "RPRNMLMKOHLGFDK88DA",
+          "scope": "周邊同街道；非同社區／距離未核",
+          "isNearby": true,
+          "note": "其他增建； 屋齡依完工日 2015-05-04 判讀；用途 住家用，格局 4房3廳5衛。",
+          "checkedAt": "2026-10-04",
+          "sourceFile": "k_lvr_land_a.csv",
+          "sourceLine": 533
+        },
+        {
+          "id": "moi-RPTNMLKLPHLGFDK09DA",
+          "date": "2026-05-22",
+          "datePrecision": "day",
+          "address": "大埔里2鄰科專三路60巷12號",
+          "total": 2040.0,
+          "area": 62.26055,
+          "land": 23.68575,
+          "unit": 32.76562,
+          "unitBasis": "官方申報單價；未拆停車",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://plvr.land.moi.gov.tw/DownloadSeason?season=115S3&type=zip&fileName=lvr_landcsv.zip",
+          "official": true,
+          "serial": "RPTNMLKLPHLGFDK09DA",
+          "scope": "同巷12號成交，與本案13號不同門牌",
+          "isNearby": false,
+          "note": "本案門牌由使用者提供為13號，尚待文件核對；此筆官方成交為同巷12號，非本戶成交。此筆官方備註欄未填；不代表已查無其他屋況或產權問題。 屋齡依完工日 2025-04-28 判讀；用途 住家用，格局 3房2廳3衛。",
+          "checkedAt": "2026-10-04",
+          "sourceFile": "k_lvr_land_a.csv",
+          "sourceLine": 963
+        },
+        {
+          "id": "moi-RPSNMLPLNHLGFDK66DA",
+          "date": "2026-05-20",
+          "datePrecision": "day",
+          "address": "大埔里1鄰科專五路518巷7號",
+          "total": 2458.0,
+          "area": 71.132875,
+          "land": 28.649775,
+          "unit": 34.555041,
+          "unitBasis": "官方申報單價；未拆停車",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://plvr.land.moi.gov.tw/DownloadSeason?season=115S3&type=zip&fileName=lvr_landcsv.zip",
+          "official": true,
+          "serial": "RPSNMLPLNHLGFDK66DA",
+          "scope": "周邊同街道；非同社區／距離未核",
+          "isNearby": true,
+          "note": "此筆官方備註欄未填；不代表已查無其他屋況或產權問題。 屋齡依完工日 2024-11-26 判讀；用途 住家用，格局 3房2廳3衛。",
+          "checkedAt": "2026-10-04",
+          "sourceFile": "k_lvr_land_a.csv",
+          "sourceLine": 829
+        },
+        {
+          "id": "moi-RPQNMLRKOHLGFDK66DA",
+          "date": "2026-05-02",
+          "datePrecision": "day",
+          "address": "大埔里2鄰大埔三街195巷16號",
+          "total": 2088.0,
+          "area": 56.24685,
+          "land": 26.247925,
+          "unit": 37.121983,
+          "unitBasis": "官方申報單價；未拆停車",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://plvr.land.moi.gov.tw/DownloadSeason?season=115S3&type=zip&fileName=lvr_landcsv.zip",
+          "official": true,
+          "serial": "RPQNMLRKOHLGFDK66DA",
+          "scope": "周邊同街道；非同社區／距離未核",
+          "isNearby": true,
+          "note": "1樓法空增建、2樓3樓4樓後陽台作室內空間使用其他增建； 屋齡依完工日 2023-12-08 判讀；用途 住家用，格局 4房2廳3衛。",
+          "checkedAt": "2026-10-04",
+          "sourceFile": "k_lvr_land_a.csv",
+          "sourceLine": 840
+        },
+        {
+          "id": "moi-RPOOMLOJOHLGFDK78DA",
+          "date": "2026-04-27",
+          "datePrecision": "day",
+          "address": "大埔里2鄰科專五路33巷7號",
+          "total": 1768.0,
+          "area": 42.62225,
+          "land": 22.109725,
+          "unit": 41.480661,
+          "unitBasis": "官方申報單價；未拆停車",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://plvr.land.moi.gov.tw/DownloadSeason?season=115S3&type=zip&fileName=lvr_landcsv.zip",
+          "official": true,
+          "serial": "RPOOMLOJOHLGFDK78DA",
+          "scope": "周邊同街道；非同社區／距離未核",
+          "isNearby": true,
+          "note": "陽台外推； 屋齡依完工日 2024-05-21 判讀；用途 住家用，格局 2房1廳3衛。",
+          "checkedAt": "2026-10-04",
+          "sourceFile": "k_lvr_land_a.csv",
+          "sourceLine": 1160
+        },
+        {
+          "id": "moi-RPUNMLQKOHLGFDK96DA",
+          "date": "2026-03-29",
+          "datePrecision": "day",
+          "address": "大埔里2鄰科專三路98巷12號",
+          "total": 1850.0,
+          "area": 62.076025,
+          "land": 26.381025,
+          "unit": 29.802314,
+          "unitBasis": "官方申報單價；未拆停車",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://plvr.land.moi.gov.tw/DownloadSeason?season=115S3&type=zip&fileName=lvr_landcsv.zip",
+          "official": true,
+          "serial": "RPUNMLQKOHLGFDK96DA",
+          "scope": "周邊同街道；非同社區／距離未核",
+          "isNearby": true,
+          "note": "此筆官方備註欄未填；不代表已查無其他屋況或產權問題。 屋齡依完工日 2023-11-30 判讀；用途 住家用，格局 3房2廳3衛。",
+          "checkedAt": "2026-10-04",
+          "sourceFile": "k_lvr_land_a.csv",
+          "sourceLine": 1540
+        },
+        {
+          "id": "jiatai-2024-04-21-a1",
+          "date": "2024-04-21",
+          "datePrecision": "day",
+          "address": "A棟1號",
+          "total": 3350,
+          "area": 83.79,
+          "land": null,
+          "unit": null,
+          "unitBasis": "平台單價；未核分算",
+          "phase": "presale",
+          "phaseLabel": "預售屋",
+          "url": "https://www.opendata.vip/en/tool/landmoi?city=%E8%8B%97%E6%A0%97%E7%B8%A3&zone=%E7%AB%B9%E5%8D%97%E9%8E%AE",
+          "official": false,
+          "serial": null,
+          "scope": "同社區轉載案例，尚未確認為本戶",
+          "isNearby": false,
+          "note": "面積及格局明顯不同，不能用此總價比較62坪待售戶；歷史預售。 轉載表單價欄為0，視為未提供；未將0解讀為成交單價。 未直接核對內政部逐筆資料或特殊交易備註，不作銀行鑑價。",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "id": "jiatai-2024-04-21-a2",
+          "date": "2024-04-21",
+          "datePrecision": "day",
+          "address": "A棟2號",
+          "total": 3350,
+          "area": 83.79,
+          "land": null,
+          "unit": null,
+          "unitBasis": "平台單價；未核分算",
+          "phase": "presale",
+          "phaseLabel": "預售屋",
+          "url": "https://www.opendata.vip/en/tool/landmoi?city=%E8%8B%97%E6%A0%97%E7%B8%A3&zone=%E7%AB%B9%E5%8D%97%E9%8E%AE",
+          "official": false,
+          "serial": null,
+          "scope": "同社區轉載案例，尚未確認為本戶",
+          "isNearby": false,
+          "note": "面積及格局明顯不同，不能用此總價比較62坪待售戶；歷史預售。 轉載表單價欄為0，視為未提供；未將0解讀為成交單價。 未直接核對內政部逐筆資料或特殊交易備註，不作銀行鑑價。",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "id": "jiatai-2024-04-20-b2",
+          "date": "2024-04-20",
+          "datePrecision": "day",
+          "address": "B棟2號",
+          "total": 3012,
+          "area": 75.29,
+          "land": null,
+          "unit": null,
+          "unitBasis": "平台單價；未核分算",
+          "phase": "presale",
+          "phaseLabel": "預售屋",
+          "url": "https://www.opendata.vip/en/tool/landmoi?city=%E8%8B%97%E6%A0%97%E7%B8%A3&zone=%E7%AB%B9%E5%8D%97%E9%8E%AE",
+          "official": false,
+          "serial": null,
+          "scope": "同社區轉載案例，尚未確認為本戶",
+          "isNearby": false,
+          "note": "面積及格局不同；歷史預售。 轉載表單價欄為0，視為未提供；未將0解讀為成交單價。 未直接核對內政部逐筆資料或特殊交易備註，不作銀行鑑價。",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "id": "jiatai-2023-09-21-b3",
+          "date": "2023-09-21",
+          "datePrecision": "day",
+          "address": "B棟3號",
+          "total": 1988,
+          "area": 62.26,
+          "land": null,
+          "unit": null,
+          "unitBasis": "平台單價；未核分算",
+          "phase": "presale",
+          "phaseLabel": "預售屋",
+          "url": "https://www.opendata.vip/en/tool/landmoi?city=%E8%8B%97%E6%A0%97%E7%B8%A3&zone=%E7%AB%B9%E5%8D%97%E9%8E%AE",
+          "official": false,
+          "serial": null,
+          "scope": "同社區轉載案例，尚未確認為本戶",
+          "isNearby": false,
+          "note": "面積接近但屬2023歷史預售，非近期成屋成交。 轉載表單價欄為0，視為未提供；未將0解讀為成交單價。 未直接核對內政部逐筆資料或特殊交易備註，不作銀行鑑價。",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "id": "jiatai-2023-08-31-a6",
+          "date": "2023-08-31",
+          "datePrecision": "day",
+          "address": "A棟6號",
+          "total": 1928,
+          "area": 62.26,
+          "land": null,
+          "unit": null,
+          "unitBasis": "平台單價；未核分算",
+          "phase": "presale",
+          "phaseLabel": "預售屋",
+          "url": "https://www.opendata.vip/en/tool/landmoi?city=%E8%8B%97%E6%A0%97%E7%B8%A3&zone=%E7%AB%B9%E5%8D%97%E9%8E%AE",
+          "official": false,
+          "serial": null,
+          "scope": "同社區轉載案例，尚未確認為本戶",
+          "isNearby": false,
+          "note": "面積接近但屬2023歷史預售，非近期成屋成交。 轉載表單價欄為0，視為未提供；未將0解讀為成交單價。 未直接核對內政部逐筆資料或特殊交易備註，不作銀行鑑價。",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "id": "jiatai-2023-08-27-b6",
+          "date": "2023-08-27",
+          "datePrecision": "day",
+          "address": "B棟6號",
+          "total": 1968,
+          "area": 62.26,
+          "land": null,
+          "unit": null,
+          "unitBasis": "平台單價；未核分算",
+          "phase": "presale",
+          "phaseLabel": "預售屋",
+          "url": "https://www.opendata.vip/en/tool/landmoi?city=%E8%8B%97%E6%A0%97%E7%B8%A3&zone=%E7%AB%B9%E5%8D%97%E9%8E%AE",
+          "official": false,
+          "serial": null,
+          "scope": "同社區轉載案例，尚未確認為本戶",
+          "isNearby": false,
+          "note": "面積接近但屬2023歷史預售，非近期成屋成交。 轉載表單價欄為0，視為未提供；未將0解讀為成交單價。 未直接核對內政部逐筆資料或特殊交易備註，不作銀行鑑價。",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "id": "toestate-RPWOMLQKPHKGFDK27DA",
+          "date": "2022-12-13",
+          "datePrecision": "day",
+          "address": "科專三路60巷13號",
+          "total": 1913.0,
+          "area": 62.26,
+          "land": null,
+          "unit": 30.7256,
+          "unitBasis": "平台轉載申報單價；車位價0不代表現場無停車，未拆停車",
+          "phase": "presale_or_separate_registration",
+          "phaseLabel": "歷史預售／分件登記",
+          "url": "https://toestate.tw/community/592480",
+          "official": false,
+          "serial": "RPWOMLQKPHKGFDK27DA",
+          "scope": "ToEstate精確門牌13號；刊登與權狀對應仍待核",
+          "isNearby": false,
+          "note": "ToEstate轉載原備註：預售屋、或土地及建物分件登記案件; 完工2025-04-28；3房2廳3衛。此為2022歷史紀錄，不作近期成屋比較；本次未直接核對該筆官方原檔。",
+          "checkedAt": "2026-10-04"
+        }
+      ],
+      "transactionScope": "預設顯示同社區轉載與已識別同巷案例，另可切換周邊街道。本版官方街道樣本共10筆（含同巷），涵蓋科專三路、科專五路、大埔三街2026年透天買賣；未採固定距離半徑，也不代表全部成交。 另補ToEstate轉載13號2022歷史預售／分件登記，非近期成屋；周邊及既有交易保持原來源。",
+      "crossListings": [
+        {
+          "url": "https://www.great-home.com.tw/detail/?sn=hBS63322",
+          "platform": "大家房屋／住商不動產頭份東民1號加盟店",
+          "match": "疑似同戶，尚未確認",
+          "price": 2280,
+          "description": "建坪 62.26 · 地坪 23.69 · 格局 4房2廳3衛 · 樓層 1-4/4樓 · 朝向 座南朝北 · 用途 集合住宅 · 管理費1,500元/月 · 一樓室內車庫",
+          "basis": "開價2280、總建62.26、主建55.54、同社區；但朝向及格局與原刊登不同，不能確認同戶。",
+          "checkedAt": "2026-10-04",
+          "caveat": "本次讀取原頁；朝向及格局仍與591不同，未確認同戶。頁面另顯示2880萬舊價，不併入13號降價歷史。"
+        },
+        {
+          "url": "https://vip.rakuya.com.tw/0910995195/sell",
+          "platform": "樂屋／永慶不動產頭份藝文品宅店",
+          "match": "疑似同戶，尚未確認",
+          "price": 2280,
+          "description": "建坪 62.26 · 格局 4房2廳3衛 · 樓層 1~4/4樓",
+          "basis": "同社區、全新朝南雙車、2280萬、62.26坪；店鋪彙整頁且格局不同，未確認門牌。",
+          "checkedAt": "2026-10-03",
+          "caveat": "網頁或搜尋快照所述，不代表即時在售；完整門牌未核對。"
+        },
+        {
+          "url": "https://buy.yungching.com.tw/house/7121690",
+          "platform": "永慶不動產頭份藝文品宅加盟店",
+          "match": "同社區，非已確認同戶",
+          "price": 2388,
+          "description": "建坪 62.26 · 格局 2房3廳3衛 · 樓層 1~5/5樓",
+          "basis": "同社區、同坪數但開價2388、2房及1~5樓不同；只列同社區供比較，不視為原戶降價前紀錄。",
+          "checkedAt": "2026-10-03",
+          "caveat": "網頁或搜尋快照所述，不代表即時在售；完整門牌未核對。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://sale.591.com.tw/home/house/detail/2/20763483.html",
+          "label": "591原始物件",
+          "kind": "刊登資訊",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "url": "https://market.591.com.tw/5903060/overview",
+          "label": "market.591.com.tw・社區資料",
+          "kind": "建案／社區資料",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "url": "https://www.leju.com.tw/community/L801136876a6709",
+          "label": "www.leju.com.tw・社區資料",
+          "kind": "建案／社區資料",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "url": "https://www.great-home.com.tw/detail/?sn=hBS63322",
+          "label": "大家房屋／住商不動產頭份東民1號加盟店",
+          "kind": "跨站參考・尚未確認同戶",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "url": "https://vip.rakuya.com.tw/0910995195/sell",
+          "label": "樂屋／永慶不動產頭份藝文品宅店",
+          "kind": "跨站參考・尚未確認同戶",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "url": "https://buy.yungching.com.tw/house/7121690",
+          "label": "永慶不動產頭份藝文品宅加盟店",
+          "kind": "跨站參考・尚未確認同戶",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "url": "https://plvr.land.moi.gov.tw/DownloadSeason?season=115S3&type=zip&fileName=lvr_landcsv.zip",
+          "label": "內政部115S3・苗栗縣買賣批次",
+          "kind": "官方批次",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "url": "https://www.opendata.vip/en/tool/landmoi?city=%E8%8B%97%E6%A0%97%E7%B8%A3&zone=%E7%AB%B9%E5%8D%97%E9%8E%AE",
+          "label": "www.opendata.vip・成交資料",
+          "kind": "平台轉載實價登錄",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "url": "https://toestate.tw/community/592480",
+          "label": "ToEstate珈泰逸墅・門牌與比較分析",
+          "kind": "插件提供實登轉載／模型試算（有條件，不作鑑價）",
+          "checkedAt": "2026-10-04"
+        }
+      ],
+      "communityFacts": [
+        {
+          "label": "建商",
+          "value": "珈泰建設有限公司"
+        },
+        {
+          "label": "建築師",
+          "value": "吳清源建築師事務所"
+        },
+        {
+          "label": "營造廠",
+          "value": "竹泰營造有限公司"
+        },
+        {
+          "label": "戶數",
+          "value": 27
+        },
+        {
+          "label": "戶數說明",
+          "value": "22戶住家、4戶店面、1戶管委會空間"
+        },
+        {
+          "label": "結構",
+          "value": "RC造"
+        },
+        {
+          "label": "土地使用分區",
+          "value": "住宅區"
+        },
+        {
+          "label": "完工日（ToEstate轉載）",
+          "value": "2025-04-28；未直接核對使用執照"
+        }
+      ],
+      "communitySources": [
+        {
+          "url": "https://market.591.com.tw/5903060/overview",
+          "label": "market.591.com.tw"
+        },
+        {
+          "url": "https://www.leju.com.tw/community/L801136876a6709",
+          "label": "www.leju.com.tw"
+        },
+        {
+          "url": "https://toestate.tw/community/592480",
+          "label": "ToEstate・完工日與門牌歸屬"
+        }
+      ],
+      "history": [
+        {
+          "date": "2026-10-03",
+          "description": "首次收錄此591物件，觀察開價 2,280 萬。未取得首次刊登或委託起日。"
+        },
+        {
+          "date": "2026-10-04",
+          "description": "直接重讀591可見欄位，補齊格局、樓層與坪數；開價與首次觀察一致。"
+        },
+        {
+          "date": "2026-10-04",
+          "description": "匯入官方115S3有限批次，與平台轉載分開標示。"
+        },
+        {
+          "date": "2026-10-04",
+          "description": "使用者補充本案門牌為科專三路60巷13號；591先前僅顯示巷名。保留為使用者提供資料，尚待文件核對。同巷12號官方成交為不同門牌。"
+        },
+        {
+          "date": "2026-10-04",
+          "description": "使用者再次提供13號開價2,280萬；以ToEstate及官方115S3核對，同巷12號近期2,040萬，本案高240萬（11.8%）。補13號2022年1,913萬歷史預售／分件登記。模型自扣8.4坪並加150萬車位尚未證實適用，未採為合理價；原筆記與缺值保留。"
+        }
+      ],
+      "sourceFacts": {
+        "address": {
+          "evidence_type": "user_provided"
+        }
+      }
+    },
+    {
+      "id": "S20775626",
+      "name": "單寧紅",
+      "address": "苗栗縣竹南鎮大埔三街195巷",
+      "shortAddress": "大埔三街195巷",
+      "sourceUrl": "https://sale.591.com.tw/home/house/detail/2/20775626.html",
+      "image": "https://img1.591.com.tw/house/2026/08/22/178736345467545906.jpg!1000x.water2.jpg",
+      "askingPrice": 2380,
+      "area": 55.47,
+      "mainArea": 48.54,
+      "accessoryArea": 6.93,
+      "landArea": 25.8,
+      "layout": "4房3廳3衛",
+      "rooms": 4,
+      "ageLabel": "2年",
+      "floorLabel": "1F~4F/4F",
+      "direction": "坐東北朝西南",
+      "managementFee": "無",
+      "legalUse": "住家用",
+      "parkingField": "無",
+      "parkingClaim": "一樓5米面寬雙車別墅",
+      "parkingArea": null,
+      "parkingPrice": null,
+      "broker": "永慶不動產頭份藝文品宅店",
+      "expiresAt": "2026-10-21",
+      "sourceUpdated": "49分鐘前",
+      "firstObserved": "2026-10-03",
+      "checkedAt": "2026-10-04",
+      "referenceSummary": "2,088 萬｜2026/05",
+      "referenceCaveat": "同巷16號、56.25坪，官方115S3批次；含法空增建與陽台使用備註。另一筆1,510萬條件仍待核",
+      "keyQuestion": "車位權利與成交特殊備註待核",
+      "issues": [
+        {
+          "title": "停車空間與登記權利待核",
+          "detail": "原591車位欄：無；原文：一樓雙車別墅；好房網：庭院固定車位；疑似同戶另一591：庭院含售金內。可停車空間與獨立登記車位不同；車位價/坪數留空，權利與合法位置待查。",
+          "sources": [
+            "https://sale.591.com.tw/home/house/detail/2/20775626.html",
+            "https://buy.housefun.com.tw/buy/house/7047220",
+            "https://sale.591.com.tw/home/house/detail/2/20930469.html"
+          ]
+        },
+        {
+          "title": "面寬說法不同",
+          "detail": "原文一樓5米面寬；疑似同戶好房網與另一591：5.5米。暫不統一數字；需現場量測、圖說或完整同戶查核。",
+          "sources": [
+            "https://sale.591.com.tw/home/house/detail/2/20775626.html",
+            "https://buy.housefun.com.tw/buy/house/7047220",
+            "https://sale.591.com.tw/home/house/detail/2/20930469.html"
+          ]
+        },
+        {
+          "title": "主建物與主＋陽口徑不同",
+          "detail": "原591主建物48.54坪、總建55.47坪；好房網主+陽55.47坪、附屬6.93坪。這是欄位口徑不同：48.54+6.93=55.47；不能將主+陽當成純主建物。",
+          "sources": [
+            "https://sale.591.com.tw/home/house/detail/2/20775626.html",
+            "https://buy.housefun.com.tw/buy/house/7047220"
+          ]
+        },
+        {
+          "title": "近期成交條件與價差待核",
+          "detail": "2026/06：1510萬、5房55.61坪；2026/05：2088萬、4房56.25坪含車位。總價差大且格局/車位條件未核，不能以最低價或兩筆平均直接判合理價。",
+          "sources": [
+            "https://community.yungching.com.tw/building/91816"
+          ]
+        }
+      ],
+      "transactions": [
+        {
+          "id": "moi-RPPNMLTJPHLGFDK76DA",
+          "date": "2026-06-24",
+          "datePrecision": "day",
+          "address": "科專五路301巷6號",
+          "total": 1698.0,
+          "area": 57.841025,
+          "land": 22.69355,
+          "unit": 29.356364,
+          "unitBasis": "官方申報單價；未拆停車",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://plvr.land.moi.gov.tw/DownloadSeason?season=115S3&type=zip&fileName=lvr_landcsv.zip",
+          "official": true,
+          "serial": "RPPNMLTJPHLGFDK76DA",
+          "scope": "周邊同街道；非同社區／距離未核",
+          "isNearby": true,
+          "note": "其他增建為一樓增建沿著加蓋陽台外推；頂樓加蓋；其他增建； 屋齡依完工日 2024-06-13 判讀；用途 住家用，格局 3房2廳3衛。",
+          "checkedAt": "2026-10-04",
+          "sourceFile": "k_lvr_land_a.csv",
+          "sourceLine": 608
+        },
+        {
+          "id": "moi-RPSNMLLMPHLGFDK56DA",
+          "date": "2026-06-24",
+          "datePrecision": "day",
+          "address": "科專五路301巷5號",
+          "total": 1783.0,
+          "area": 57.841025,
+          "land": 22.696575,
+          "unit": 30.825785,
+          "unitBasis": "官方申報單價；未拆停車",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://plvr.land.moi.gov.tw/DownloadSeason?season=115S3&type=zip&fileName=lvr_landcsv.zip",
+          "official": true,
+          "serial": "RPSNMLLMPHLGFDK56DA",
+          "scope": "周邊同街道；非同社區／距離未核",
+          "isNearby": true,
+          "note": "此筆官方備註欄未填；不代表已查無其他屋況或產權問題。 屋齡依完工日 2024-06-13 判讀；用途 住家用，格局 3房3廳4衛。",
+          "checkedAt": "2026-10-04",
+          "sourceFile": "k_lvr_land_a.csv",
+          "sourceLine": 633
+        },
+        {
+          "id": "moi-RPQOMLQJPHLGFDK66DA",
+          "date": "2026-06-09",
+          "datePrecision": "day",
+          "address": "大埔里2鄰科專五路28號",
+          "total": 1960.0,
+          "area": 52.523075,
+          "land": 24.4299,
+          "unit": 37.317025,
+          "unitBasis": "官方申報單價；未拆停車",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://plvr.land.moi.gov.tw/DownloadSeason?season=115S3&type=zip&fileName=lvr_landcsv.zip",
+          "official": true,
+          "serial": "RPQOMLQJPHLGFDK66DA",
+          "scope": "周邊同街道；非同社區／距離未核",
+          "isNearby": true,
+          "note": "其他增建； 屋齡依完工日 2020-12-14 判讀；用途 住家用，格局 4房2廳5衛。",
+          "checkedAt": "2026-10-04",
+          "sourceFile": "k_lvr_land_a.csv",
+          "sourceLine": 591
+        },
+        {
+          "id": "moi-RPPNMLPKPHLGFDK09DA",
+          "date": "2026-06-07",
+          "datePrecision": "day",
+          "address": "大埔里2鄰科專三路122巷20號",
+          "total": 1840.0,
+          "area": 56.624975,
+          "land": 29.44535,
+          "unit": 32.494545,
+          "unitBasis": "官方申報單價；未拆停車",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://plvr.land.moi.gov.tw/DownloadSeason?season=115S3&type=zip&fileName=lvr_landcsv.zip",
+          "official": true,
+          "serial": "RPPNMLPKPHLGFDK09DA",
+          "scope": "周邊同街道；非同社區／距離未核",
+          "isNearby": true,
+          "note": "此筆官方備註欄未填；不代表已查無其他屋況或產權問題。 屋齡依完工日 2015-04-29 判讀；用途 住家用，格局 4房3廳3衛。",
+          "checkedAt": "2026-10-04",
+          "sourceFile": "k_lvr_land_a.csv",
+          "sourceLine": 682
+        },
+        {
+          "id": "moi-RPRNMLMKOHLGFDK88DA",
+          "date": "2026-06-03",
+          "datePrecision": "day",
+          "address": "大埔里2鄰科專五路150巷3號",
+          "total": 2283.0,
+          "area": 77.037675,
+          "land": 28.7617,
+          "unit": 29.634711,
+          "unitBasis": "官方申報單價；未拆停車",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://plvr.land.moi.gov.tw/DownloadSeason?season=115S3&type=zip&fileName=lvr_landcsv.zip",
+          "official": true,
+          "serial": "RPRNMLMKOHLGFDK88DA",
+          "scope": "周邊同街道；非同社區／距離未核",
+          "isNearby": true,
+          "note": "其他增建； 屋齡依完工日 2015-05-04 判讀；用途 住家用，格局 4房3廳5衛。",
+          "checkedAt": "2026-10-04",
+          "sourceFile": "k_lvr_land_a.csv",
+          "sourceLine": 533
+        },
+        {
+          "id": "daning-2026-06",
+          "date": "2026-06",
+          "datePrecision": "month",
+          "address": null,
+          "total": 1510,
+          "area": 55.61,
+          "land": null,
+          "unit": 27.2,
+          "unitBasis": "平台單價；未核分算",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://community.yungching.com.tw/building/91816",
+          "official": false,
+          "serial": null,
+          "scope": "同社區轉載案例，尚未確認為本戶",
+          "isNearby": false,
+          "note": "永慶公開社區頁逐筆；門牌未公開於可讀內容，特殊交易註記未核。 未直接核對內政部逐筆資料或特殊交易備註，不作銀行鑑價。",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "id": "moi-RPTNMLKLPHLGFDK09DA",
+          "date": "2026-05-22",
+          "datePrecision": "day",
+          "address": "大埔里2鄰科專三路60巷12號",
+          "total": 2040.0,
+          "area": 62.26055,
+          "land": 23.68575,
+          "unit": 32.76562,
+          "unitBasis": "官方申報單價；未拆停車",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://plvr.land.moi.gov.tw/DownloadSeason?season=115S3&type=zip&fileName=lvr_landcsv.zip",
+          "official": true,
+          "serial": "RPTNMLKLPHLGFDK09DA",
+          "scope": "周邊同街道；非同社區／距離未核",
+          "isNearby": true,
+          "note": "此筆官方備註欄未填；不代表已查無其他屋況或產權問題。 屋齡依完工日 2025-04-28 判讀；用途 住家用，格局 3房2廳3衛。",
+          "checkedAt": "2026-10-04",
+          "sourceFile": "k_lvr_land_a.csv",
+          "sourceLine": 963
+        },
+        {
+          "id": "moi-RPSNMLPLNHLGFDK66DA",
+          "date": "2026-05-20",
+          "datePrecision": "day",
+          "address": "大埔里1鄰科專五路518巷7號",
+          "total": 2458.0,
+          "area": 71.132875,
+          "land": 28.649775,
+          "unit": 34.555041,
+          "unitBasis": "官方申報單價；未拆停車",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://plvr.land.moi.gov.tw/DownloadSeason?season=115S3&type=zip&fileName=lvr_landcsv.zip",
+          "official": true,
+          "serial": "RPSNMLPLNHLGFDK66DA",
+          "scope": "周邊同街道；非同社區／距離未核",
+          "isNearby": true,
+          "note": "此筆官方備註欄未填；不代表已查無其他屋況或產權問題。 屋齡依完工日 2024-11-26 判讀；用途 住家用，格局 3房2廳3衛。",
+          "checkedAt": "2026-10-04",
+          "sourceFile": "k_lvr_land_a.csv",
+          "sourceLine": 829
+        },
+        {
+          "id": "moi-RPQNMLRKOHLGFDK66DA",
+          "date": "2026-05-02",
+          "datePrecision": "day",
+          "address": "大埔里2鄰大埔三街195巷16號",
+          "total": 2088.0,
+          "area": 56.24685,
+          "land": 26.247925,
+          "unit": 37.121983,
+          "unitBasis": "官方申報單價；未拆停車",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://plvr.land.moi.gov.tw/DownloadSeason?season=115S3&type=zip&fileName=lvr_landcsv.zip",
+          "official": true,
+          "serial": "RPQNMLRKOHLGFDK66DA",
+          "scope": "同巷成交，戶別未確認",
+          "isNearby": false,
+          "note": "1樓法空增建、2樓3樓4樓後陽台作室內空間使用其他增建； 已以月份、總價、建坪對照永慶社區2,088萬案例，去重為一筆；官方車位登錄0筆，平台標含車位，口徑差異保留。 屋齡依完工日 2023-12-08 判讀；用途 住家用，格局 4房2廳3衛。",
+          "checkedAt": "2026-10-04",
+          "sourceFile": "k_lvr_land_a.csv",
+          "sourceLine": 840
+        },
+        {
+          "id": "moi-RPOOMLOJOHLGFDK78DA",
+          "date": "2026-04-27",
+          "datePrecision": "day",
+          "address": "大埔里2鄰科專五路33巷7號",
+          "total": 1768.0,
+          "area": 42.62225,
+          "land": 22.109725,
+          "unit": 41.480661,
+          "unitBasis": "官方申報單價；未拆停車",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://plvr.land.moi.gov.tw/DownloadSeason?season=115S3&type=zip&fileName=lvr_landcsv.zip",
+          "official": true,
+          "serial": "RPOOMLOJOHLGFDK78DA",
+          "scope": "周邊同街道；非同社區／距離未核",
+          "isNearby": true,
+          "note": "陽台外推； 屋齡依完工日 2024-05-21 判讀；用途 住家用，格局 2房1廳3衛。",
+          "checkedAt": "2026-10-04",
+          "sourceFile": "k_lvr_land_a.csv",
+          "sourceLine": 1160
+        },
+        {
+          "id": "moi-RPUNMLQKOHLGFDK96DA",
+          "date": "2026-03-29",
+          "datePrecision": "day",
+          "address": "大埔里2鄰科專三路98巷12號",
+          "total": 1850.0,
+          "area": 62.076025,
+          "land": 26.381025,
+          "unit": 29.802314,
+          "unitBasis": "官方申報單價；未拆停車",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://plvr.land.moi.gov.tw/DownloadSeason?season=115S3&type=zip&fileName=lvr_landcsv.zip",
+          "official": true,
+          "serial": "RPUNMLQKOHLGFDK96DA",
+          "scope": "周邊同街道；非同社區／距離未核",
+          "isNearby": true,
+          "note": "此筆官方備註欄未填；不代表已查無其他屋況或產權問題。 屋齡依完工日 2023-11-30 判讀；用途 住家用，格局 3房2廳3衛。",
+          "checkedAt": "2026-10-04",
+          "sourceFile": "k_lvr_land_a.csv",
+          "sourceLine": 1540
+        },
+        {
+          "id": "daning-2022-03",
+          "date": "2022-03",
+          "datePrecision": "month",
+          "address": null,
+          "total": 1698,
+          "area": 60.56,
+          "land": null,
+          "unit": 28,
+          "unitBasis": "平台單價；未核分算",
+          "phase": "presale_or_separate_registration",
+          "phaseLabel": "歷史／類型待核",
+          "url": "https://community.yungching.com.tw/building/91816",
+          "official": false,
+          "serial": null,
+          "scope": "同社區轉載案例，尚未確認為本戶",
+          "isNearby": false,
+          "note": "來源註記：預售屋、或土地及建物分件登記案件；歷史資料不併入近期比較。 未直接核對內政部逐筆資料或特殊交易備註，不作銀行鑑價。",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "id": "daning-2022-02",
+          "date": "2022-02",
+          "datePrecision": "month",
+          "address": null,
+          "total": 1488,
+          "area": 55.61,
+          "land": null,
+          "unit": 26.8,
+          "unitBasis": "平台單價；未核分算",
+          "phase": "presale_or_separate_registration",
+          "phaseLabel": "歷史／類型待核",
+          "url": "https://community.yungching.com.tw/building/91816",
+          "official": false,
+          "serial": null,
+          "scope": "同社區轉載案例，尚未確認為本戶",
+          "isNearby": false,
+          "note": "來源註記：預售屋、或土地及建物分件登記案件；歷史資料不併入近期比較。 未直接核對內政部逐筆資料或特殊交易備註，不作銀行鑑價。",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "transactionScope": "預設顯示同社區轉載與已識別同巷案例，另可切換周邊街道。本版官方街道樣本共10筆（含同巷），涵蓋科專三路、科專五路、大埔三街2026年透天買賣；未採固定距離半徑，也不代表全部成交。",
+      "crossListings": [
+        {
+          "url": "https://buy.housefun.com.tw/buy/house/7047220",
+          "platform": "好房網／永慶不動產",
+          "match": "疑似同戶，尚未確認",
+          "price": null,
+          "description": "建坪 55.47 · 地坪 25.8 · 格局 4房3廳3衛 · 樓層 1~4/4樓 · 朝向 西南",
+          "basis": "同社區、55.47坪、四房、L型廚具客變敘述吻合；完整門牌及權狀仍未核。",
+          "checkedAt": "2026-10-03",
+          "caveat": "同仲介體系同步刊登可能性高，不算獨立驗證。主+陽55.47並不是主建物55.47。"
+        },
+        {
+          "url": "https://sale.591.com.tw/home/house/detail/2/20930469.html",
+          "platform": "591／永慶不動產頭份藝文品宅加盟店",
+          "match": "疑似同戶，尚未確認",
+          "price": 2380,
+          "description": "建坪 55.47 · 地坪 25.8 · 格局 4房3廳3衛 · 樓層 1~4/4樓",
+          "basis": "同社區、開價2380、55.47坪、主建48.54坪、同加盟店、L型廚具客變敘述及相同地圖位置；完整門牌尚未核對。",
+          "checkedAt": "2026-10-03",
+          "caveat": "同加盟店的其他仲介刊登，仍屬疑似同戶；不可由新刊登ID推售屋開始日期。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://sale.591.com.tw/home/house/detail/2/20775626.html",
+          "label": "591原始物件",
+          "kind": "刊登資訊",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "url": "https://www.leju.com.tw/community/L7861332173a579",
+          "label": "www.leju.com.tw・社區資料",
+          "kind": "建案／社區資料",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "url": "https://buy.housefun.com.tw/buy/building/91816",
+          "label": "buy.housefun.com.tw・社區資料",
+          "kind": "建案／社區資料",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "url": "https://buy.housefun.com.tw/buy/house/7047220",
+          "label": "好房網／永慶不動產",
+          "kind": "跨站參考・尚未確認同戶",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "url": "https://sale.591.com.tw/home/house/detail/2/20930469.html",
+          "label": "591／永慶不動產頭份藝文品宅加盟店",
+          "kind": "跨站參考・尚未確認同戶",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "url": "https://plvr.land.moi.gov.tw/DownloadSeason?season=115S3&type=zip&fileName=lvr_landcsv.zip",
+          "label": "內政部115S3・苗栗縣買賣批次",
+          "kind": "官方批次",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "url": "https://community.yungching.com.tw/building/91816",
+          "label": "community.yungching.com.tw・成交資料",
+          "kind": "平台轉載實價登錄",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "communityFacts": [
+        {
+          "label": "建商",
+          "value": "富奕建設"
+        },
+        {
+          "label": "建築師",
+          "value": "楊書銘建築師事務所"
+        },
+        {
+          "label": "營造廠",
+          "value": "良岳營造"
+        },
+        {
+          "label": "戶數",
+          "value": 14
+        },
+        {
+          "label": "結構",
+          "value": "RC造"
+        },
+        {
+          "label": "土地使用分區",
+          "value": "住1"
+        },
+        {
+          "label": "完工時間（平台）",
+          "value": "2023/12"
+        }
+      ],
+      "communitySources": [
+        {
+          "url": "https://www.leju.com.tw/community/L7861332173a579",
+          "label": "www.leju.com.tw"
+        },
+        {
+          "url": "https://buy.housefun.com.tw/buy/building/91816",
+          "label": "buy.housefun.com.tw"
+        }
+      ],
+      "history": [
+        {
+          "date": "2026-10-03",
+          "description": "首次收錄此591物件，觀察開價 2,380 萬。未取得首次刊登或委託起日。"
+        },
+        {
+          "date": "2026-10-04",
+          "description": "直接重讀591可見欄位，補齊格局、樓層與坪數；開價與首次觀察一致。"
+        },
+        {
+          "date": "2026-10-04",
+          "description": "匯入官方115S3有限批次，與平台轉載分開標示。"
+        }
+      ],
+      "sourceFacts": {
+        "address": {
+          "evidence_type": "platform_claim"
+        }
+      }
+    }
+  ],
+  "annotations": {},
+  "valuations": [],
+  "intake": []
+}

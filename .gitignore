@@ -1,0 +1,10 @@
+# Commit only the generated public snapshot.
+*
+!.gitignore
+!.nojekyll
+!README.md
+!app.js
+!data.json
+!favicon.svg
+!index.html
+!styles.css
