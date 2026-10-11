@@ -617,10 +617,10 @@
       "expiresAt": "2026-10-13",
       "sourceUpdated": null,
       "firstObserved": "2026-10-03",
-      "checkedAt": "2026-10-04",
-      "referenceSummary": "以歷史預售為主",
-      "referenceCaveat": "62.98–68.81坪歷史預售總價2,608–2,888萬；另有101.88坪3,988萬大戶，分開閱讀。缺近期同條件成屋案例",
-      "keyQuestion": "住商用途、管理費及樓層待核",
+      "checkedAt": "2026-10-11",
+      "referenceSummary": "同案13筆預售中位2,798萬｜開價+490萬",
+      "referenceCaveat": "ToEstate同案2024年13筆非特殊預售總價2,608–2,888萬，中位2,798萬；現開價高490萬（17.5%）。預售多為3房4層，待售廣告為4房5層，缺完整門牌且未查到近期同案成屋轉售。2026/02的3,988萬為101.88坪親友等特殊交易，未納入中位。",
+      "keyQuestion": "住商用途、管理費、4/5層與前院停車權利待核",
       "issues": [
         {
           "title": "住家或住店用途待核",
@@ -650,18 +650,21 @@
         },
         {
           "title": "登記樓層與現況待核",
-          "detail": "乐居社區4層；疑似同戶有巢氏5層。社區/個別戶差異或登記與現況差異，需使用執照核對，不自行判違建。",
+          "detail": "乐居社區4層；疑似同戶有巢氏5層。社區/個別戶差異或登記與現況差異，需使用執照核對，不自行判違建。 ToEstate社區建物亦列4層；原591整棟5F仍須以該戶使用執照、建物謄本及現況核對。",
           "sources": [
             "https://www.leju.com.tw/community/Ledf146813bb8e7",
-            "https://buy.yungching.com.tw/house/7475663"
+            "https://buy.yungching.com.tw/house/7475663",
+            "https://toestate.tw/community/592485"
           ]
         },
         {
           "title": "平台成交統計範圍不同",
-          "detail": "樂居14筆最高2888；房地王14筆最高3988含2026/02 A1。來源更新/範圍不一致，不採任一網站整體平均直接估價。",
+          "detail": "樂居14筆最高2888；房地王14筆最高3988含2026/02 A1。來源更新/範圍不一致，不採任一網站整體平均直接估價。 ToEstate將2026/02的3,988萬101.88坪案例標為親友等特殊關係；不納入13筆一般預售中位。另13筆平台買賣均帶預售／分件登記註記，不能再算一次轉售。",
           "sources": [
             "https://www.leju.com.tw/community/Ledf146813bb8e7",
-            "https://hsinchu.housetube.tw/48638/realprice"
+            "https://hsinchu.housetube.tw/48638/realprice",
+            "https://toestate.tw/project/27642",
+            "https://toestate.tw/community/592485"
           ]
         },
         {
@@ -911,8 +914,8 @@
           "serial": null,
           "scope": "同社區轉載案例，尚未確認為本戶",
           "isNearby": false,
-          "note": "來源頁明標內政部實登，最新資料日期2026/02/02；A1面積明顯大於67坪待售戶，不宜直接對比總價。",
-          "checkedAt": "2026-10-03"
+          "note": "來源頁明標內政部實登，最新資料日期2026/02/02；A1面積明顯大於67坪待售戶，不宜直接對比總價。 2026-10-11 ToEstate建案頁另標此筆為親友、員工、共有人或其他特殊關係交易；排除一般預售中位。",
+          "checkedAt": "2026-10-11"
         },
         {
           "id": "qianban-2024-07-b3",
@@ -1015,7 +1018,7 @@
           "checkedAt": "2026-10-03"
         }
       ],
-      "transactionScope": "預設顯示同社區轉載與已識別同巷案例，另可切換周邊街道。本版官方街道樣本共10筆（含同巷），涵蓋科專三路、科專五路、大埔三街2026年透天買賣；未採固定距離半徑，也不代表全部成交。",
+      "transactionScope": "預設顯示同社區轉載與已識別同巷案例，另可切換周邊街道。本版官方街道樣本共10筆（含同巷），涵蓋科專三路、科專五路、大埔三街2026年透天買賣；未採固定距離半徑，也不代表全部成交。 2026-10-11 ToEstate建案頁可核對2024年13筆非特殊預售，中位數只用該13筆；現有逐筆表保留原先選例，不另把ToEstate標預售／分件登記的13筆買賣重算成成屋轉售。",
       "crossListings": [
         {
           "url": "https://buy.yungching.com.tw/house/7475663",
@@ -1053,7 +1056,7 @@
           "url": "https://sale.591.com.tw/home/house/detail/2/20733977.html",
           "label": "591原始物件",
           "kind": "刊登資訊",
-          "checkedAt": "2026-10-04"
+          "checkedAt": "2026-10-11"
         },
         {
           "url": "https://www.leju.com.tw/community/Ledf146813bb8e7",
@@ -1090,6 +1093,18 @@
           "label": "hsinchu.housetube.tw・成交資料",
           "kind": "平台轉載實價登錄",
           "checkedAt": "2026-10-03"
+        },
+        {
+          "url": "https://toestate.tw/project/27642",
+          "label": "ToEstate・千瓣白建案與預售成交",
+          "kind": "平台轉載實價登錄／建案",
+          "checkedAt": "2026-10-11"
+        },
+        {
+          "url": "https://toestate.tw/community/592485",
+          "label": "ToEstate・千瓣白社區與登記樓層",
+          "kind": "平台轉載實價登錄／社區",
+          "checkedAt": "2026-10-11"
         }
       ],
       "communityFacts": [
@@ -1116,12 +1131,32 @@
         {
           "label": "土地使用分區",
           "value": "住1"
+        },
+        {
+          "label": "完工日（ToEstate社區）",
+          "value": "2026/02/04"
+        },
+        {
+          "label": "建物樓層（ToEstate社區）",
+          "value": "4層；刊登稱整棟5F，待核單戶"
+        },
+        {
+          "label": "2024一般預售（ToEstate）",
+          "value": "13筆；總價中位2,798萬"
         }
       ],
       "communitySources": [
         {
           "url": "https://www.leju.com.tw/community/Ledf146813bb8e7",
           "label": "www.leju.com.tw"
+        },
+        {
+          "url": "https://toestate.tw/project/27642",
+          "label": "ToEstate・千瓣白建案與預售成交"
+        },
+        {
+          "url": "https://toestate.tw/community/592485",
+          "label": "ToEstate・千瓣白社區與登記樓層"
         }
       ],
       "history": [
@@ -1132,6 +1167,10 @@
         {
           "date": "2026-10-04",
           "description": "匯入官方115S3有限批次，與平台轉載分開標示。"
+        },
+        {
+          "date": "2026-10-11",
+          "description": "591開價仍為3,288萬；ToEstate 同案預售13筆非特殊案例中位2,798萬，特殊交易及預售／分件登記重複列示已分開判讀，未取得個別戶鑑價。"
         }
       ],
       "sourceFacts": {
@@ -1802,10 +1841,10 @@
       "expiresAt": "2026-10-21",
       "sourceUpdated": "49分鐘前",
       "firstObserved": "2026-10-03",
-      "checkedAt": "2026-10-04",
-      "referenceSummary": "2,088 萬｜2026/05",
-      "referenceCaveat": "同巷16號、56.25坪，官方115S3批次；含法空增建與陽台使用備註。另一筆1,510萬條件仍待核",
-      "keyQuestion": "車位權利與成交特殊備註待核",
+      "checkedAt": "2026-10-11",
+      "referenceSummary": "同社區4房2,088萬｜開價+292萬",
+      "referenceCaveat": "ToEstate同社區2026/05/02巷16號4房56.25坪成交2,088萬，現開價高292萬（14.0%）；該戶有1樓法空及後陽台增建備註。2026/06/01巷8號5房55.61坪成交1,510萬，格局及條件不同，不取兩筆平均。591未顯示待售完整門牌，停車權利仍待核。",
+      "keyQuestion": "車位權利、同社區成交價差與增建備註待核",
       "issues": [
         {
           "title": "停車空間與登記權利待核",
@@ -1835,9 +1874,10 @@
         },
         {
           "title": "近期成交條件與價差待核",
-          "detail": "2026/06：1510萬、5房55.61坪；2026/05：2088萬、4房56.25坪含車位。總價差大且格局/車位條件未核，不能以最低價或兩筆平均直接判合理價。",
+          "detail": "2026/06：1510萬、5房55.61坪；2026/05：2088萬、4房56.25坪含車位。總價差大且格局/車位條件未核，不能以最低價或兩筆平均直接判合理價。 ToEstate補出1,510萬為2026-06-01巷8號5房55.61坪；2,088萬為巷16號4房56.25坪且有增建備註。官方16號車位登錄0筆，平台另稱含車位；待售戶完整門牌仍缺。",
           "sources": [
-            "https://community.yungching.com.tw/building/91816"
+            "https://community.yungching.com.tw/building/91816",
+            "https://toestate.tw/community/592354"
           ]
         }
       ],
@@ -1954,9 +1994,9 @@
         },
         {
           "id": "daning-2026-06",
-          "date": "2026-06",
-          "datePrecision": "month",
-          "address": null,
+          "date": "2026-06-01",
+          "datePrecision": "day",
+          "address": "大埔三街195巷8號",
           "total": 1510,
           "area": 55.61,
           "land": null,
@@ -1966,11 +2006,11 @@
           "phaseLabel": "成屋買賣",
           "url": "https://community.yungching.com.tw/building/91816",
           "official": false,
-          "serial": null,
-          "scope": "同社區轉載案例，尚未確認為本戶",
+          "serial": "RPSNMLSJOHLGFDK86DA",
+          "scope": "同社區8號不同戶；ToEstate轉載，待售戶門牌未公開",
           "isNearby": false,
-          "note": "永慶公開社區頁逐筆；門牌未公開於可讀內容，特殊交易註記未核。 未直接核對內政部逐筆資料或特殊交易備註，不作銀行鑑價。",
-          "checkedAt": "2026-10-03"
+          "note": "永慶公開社區頁逐筆；門牌未公開於可讀內容，特殊交易註記未核。 未直接核對內政部逐筆資料或特殊交易備註，不作銀行鑑價。 2026-10-11 ToEstate提供日精度、8號門牌及申報序號；與原永慶月份、總價、建坪、5房資訊相合，判作同一交易，並未另新增一筆。仍屬平台轉載，未直接核對官方逐筆資料。",
+          "checkedAt": "2026-10-11"
         },
         {
           "id": "moi-RPTNMLKLPHLGFDK09DA",
@@ -2123,7 +2163,7 @@
           "checkedAt": "2026-10-03"
         }
       ],
-      "transactionScope": "預設顯示同社區轉載與已識別同巷案例，另可切換周邊街道。本版官方街道樣本共10筆（含同巷），涵蓋科專三路、科專五路、大埔三街2026年透天買賣；未採固定距離半徑，也不代表全部成交。",
+      "transactionScope": "預設顯示同社區轉載與已識別同巷案例，另可切換周邊街道。本版官方街道樣本共10筆（含同巷），涵蓋科專三路、科專五路、大埔三街2026年透天買賣；未採固定距離半徑，也不代表全部成交。 2026-10-11 ToEstate社區查得2026年兩筆不同戶成交：8號1,510萬、16號2,088萬；16號已在原官方批次，未重複新增。8號仍以平台轉載標示。",
       "crossListings": [
         {
           "url": "https://buy.housefun.com.tw/buy/house/7047220",
@@ -2151,7 +2191,7 @@
           "url": "https://sale.591.com.tw/home/house/detail/2/20775626.html",
           "label": "591原始物件",
           "kind": "刊登資訊",
-          "checkedAt": "2026-10-04"
+          "checkedAt": "2026-10-11"
         },
         {
           "url": "https://www.leju.com.tw/community/L7861332173a579",
@@ -2188,6 +2228,18 @@
           "label": "community.yungching.com.tw・成交資料",
           "kind": "平台轉載實價登錄",
           "checkedAt": "2026-10-03"
+        },
+        {
+          "url": "https://toestate.tw/project/27358",
+          "label": "ToEstate・單寧紅建案資料",
+          "kind": "平台轉載實價登錄／建案",
+          "checkedAt": "2026-10-11"
+        },
+        {
+          "url": "https://toestate.tw/community/592354",
+          "label": "ToEstate・單寧紅社區成交",
+          "kind": "平台轉載實價登錄／社區",
+          "checkedAt": "2026-10-11"
         }
       ],
       "communityFacts": [
@@ -2218,6 +2270,14 @@
         {
           "label": "完工時間（平台）",
           "value": "2023/12"
+        },
+        {
+          "label": "完工日（ToEstate社區）",
+          "value": "2023/12/08"
+        },
+        {
+          "label": "2026同社區成屋成交（ToEstate）",
+          "value": "2筆；不同戶與格局，不直接平均"
         }
       ],
       "communitySources": [
@@ -2228,6 +2288,14 @@
         {
           "url": "https://buy.housefun.com.tw/buy/building/91816",
           "label": "buy.housefun.com.tw"
+        },
+        {
+          "url": "https://toestate.tw/project/27358",
+          "label": "ToEstate・單寧紅建案資料"
+        },
+        {
+          "url": "https://toestate.tw/community/592354",
+          "label": "ToEstate・單寧紅社區成交"
         }
       ],
       "history": [
@@ -2242,6 +2310,10 @@
         {
           "date": "2026-10-04",
           "description": "匯入官方115S3有限批次，與平台轉載分開標示。"
+        },
+        {
+          "date": "2026-10-11",
+          "description": "591開價仍為2,380萬；ToEstate 同社區成屋2筆分戶判讀，補明1,510萬為8號5房、2,088萬為16號4房且有增建備註，未取得待售戶完整門牌或個別鑑價。"
         }
       ],
       "sourceFacts": {
