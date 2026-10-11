@@ -2,12 +2,12 @@
   "schemaVersion": 1,
   "title": "大埔透天，放在一起比較。",
   "location": "苗栗・竹南",
-  "updatedAt": "2026-10-04",
+  "updatedAt": "2026-10-11",
   "observedRange": [
     "2026-10-03",
-    "2026-10-04"
+    "2026-10-11"
   ],
-  "recentCutoff": "2025-10-04",
+  "recentCutoff": "2025-10-11",
   "officialBatch": {
     "name": "115S3",
     "source": "https://plvr.land.moi.gov.tw/DownloadSeason?season=115S3&type=zip&fileName=lvr_landcsv.zip",
@@ -2242,6 +2242,752 @@
         {
           "date": "2026-10-04",
           "description": "匯入官方115S3有限批次，與平台轉載分開標示。"
+        }
+      ],
+      "sourceFacts": {
+        "address": {
+          "evidence_type": "platform_claim"
+        }
+      }
+    },
+    {
+      "id": "S20792485",
+      "name": "智豐曜日",
+      "address": "苗栗縣竹南鎮大埔五街248巷",
+      "shortAddress": "大埔五街248巷",
+      "sourceUrl": "https://sale.591.com.tw/home/house/detail/2/20792485.html",
+      "image": "https://img1.591.com.tw/house/2026/08/25/178764799514082801.jpg!1000x.water2.jpg",
+      "askingPrice": 2398,
+      "area": 62.94,
+      "mainArea": 58.36,
+      "accessoryArea": 4.58,
+      "landArea": 24.45,
+      "layout": "3房2廳3衛",
+      "rooms": 3,
+      "ageLabel": "1年",
+      "floorLabel": "1F~4F/4F",
+      "direction": null,
+      "managementFee": "無",
+      "legalUse": "住家用",
+      "parkingField": "無",
+      "parkingClaim": "文案宣稱7米面寬可併排停雙車，並已有充電樁",
+      "parkingArea": null,
+      "parkingPrice": null,
+      "broker": "飛鷹地產-頭份中興加盟店／欣聖泰不動產有限公司",
+      "expiresAt": "2026-10-24",
+      "sourceUpdated": "56分鐘前（2026-10-11觀察）",
+      "firstObserved": "2026-10-11",
+      "checkedAt": "2026-10-11",
+      "referenceSummary": "同巷6筆中位2,075萬｜開價+323萬",
+      "referenceCaveat": "ToEstate轉載內政部成交資料：6筆2024年同巷透天總價1,800–2,280萬，中位2,075萬；開價高323萬（15.6%）。591只顯示巷名，尚不能確認哪筆為本戶歷史交易；這是較早的歷史成交，裝潢、土地持分與停車口徑待核。",
+      "keyQuestion": "開價高於同巷歷史最高118萬；裝潢、位置及雙車停放權利能否支持？",
+      "issues": [
+        {
+          "title": "完整門牌未公開",
+          "detail": "591刊登僅到大埔五街248巷；ToEstate同巷有六筆成交，其中多戶建坪62.94，不能單靠坪數選定本戶。591社區頁的5號是社區代表地址，不是此刊登門牌。",
+          "sources": [
+            "https://sale.591.com.tw/home/house/detail/2/20792485.html",
+            "https://market.591.com.tw/5936876",
+            "https://toestate.tw/community/592367"
+          ]
+        },
+        {
+          "title": "車位欄與文案不同",
+          "detail": "591車位欄寫無，文案說7米面寬可併排停雙車且有充電樁。可停放空間不等於獨立登記車位，需確認使用權、設置位置與充電樁權利。",
+          "sources": [
+            "https://sale.591.com.tw/home/house/detail/2/20792485.html"
+          ]
+        },
+        {
+          "title": "其他刊登宣稱降價，尚未配對",
+          "detail": "另一筆591刊登同為2398萬、62.94坪並宣稱降價160萬；兩刊登未公開完整門牌，不能把其原價與刊登時間當成本戶歷史。",
+          "sources": [
+            "https://sale.591.com.tw/home/house/detail/2/20792485.html",
+            "https://sale.591.com.tw/home/house/detail/2/21013353.html"
+          ]
+        }
+      ],
+      "transactions": [
+        {
+          "id": "toestate-RPWNMLQKJHKGFDK56DA",
+          "date": "2024-11-09",
+          "datePrecision": "day",
+          "address": "大埔五街248巷2號",
+          "total": 2050.0,
+          "area": 62.94,
+          "land": null,
+          "unit": 32.5686,
+          "unitBasis": "ToEstate轉載申報單價；車位價格與權利未逐戶核實",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://toestate.tw/community/592367",
+          "official": false,
+          "serial": "RPWNMLQKJHKGFDK56DA",
+          "scope": "同巷透天；非已確認待售本戶",
+          "isNearby": false,
+          "note": "",
+          "checkedAt": "2026-10-11"
+        },
+        {
+          "id": "toestate-RPQOMLQKJHKGFDK68DA",
+          "date": "2024-11-09",
+          "datePrecision": "day",
+          "address": "大埔五街248巷5號",
+          "total": 1800.0,
+          "area": 63.69,
+          "land": null,
+          "unit": 28.2598,
+          "unitBasis": "ToEstate轉載申報單價；車位價格與權利未逐戶核實",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://toestate.tw/community/592367",
+          "official": false,
+          "serial": "RPQOMLQKJHKGFDK68DA",
+          "scope": "同巷透天；非已確認待售本戶",
+          "isNearby": false,
+          "note": "",
+          "checkedAt": "2026-10-11"
+        },
+        {
+          "id": "toestate-RPUNMLQKJHKGFDK98DA",
+          "date": "2024-11-09",
+          "datePrecision": "day",
+          "address": "大埔五街248巷6號",
+          "total": 2280.0,
+          "area": 62.94,
+          "land": null,
+          "unit": 36.2225,
+          "unitBasis": "ToEstate轉載申報單價；車位價格與權利未逐戶核實",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://toestate.tw/community/592367",
+          "official": false,
+          "serial": "RPUNMLQKJHKGFDK98DA",
+          "scope": "同巷透天；非已確認待售本戶",
+          "isNearby": false,
+          "note": "",
+          "checkedAt": "2026-10-11"
+        },
+        {
+          "id": "toestate-RPXNMLQKJHKGFDK66DA",
+          "date": "2024-11-06",
+          "datePrecision": "day",
+          "address": "大埔五街248巷8號",
+          "total": 2280.0,
+          "area": 63.69,
+          "land": null,
+          "unit": 35.796,
+          "unitBasis": "ToEstate轉載申報單價；車位價格與權利未逐戶核實",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://toestate.tw/community/592367",
+          "official": false,
+          "serial": "RPXNMLQKJHKGFDK66DA",
+          "scope": "同巷透天；非已確認待售本戶",
+          "isNearby": false,
+          "note": "",
+          "checkedAt": "2026-10-11"
+        },
+        {
+          "id": "toestate-RPPOMLQKJHKGFDK58DA",
+          "date": "2024-11-06",
+          "datePrecision": "day",
+          "address": "大埔五街248巷3號",
+          "total": 1900.0,
+          "area": 62.94,
+          "land": null,
+          "unit": 30.1855,
+          "unitBasis": "ToEstate轉載申報單價；車位價格與權利未逐戶核實",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://toestate.tw/community/592367",
+          "official": false,
+          "serial": "RPPOMLQKJHKGFDK58DA",
+          "scope": "同巷透天；非已確認待售本戶",
+          "isNearby": false,
+          "note": "",
+          "checkedAt": "2026-10-11"
+        },
+        {
+          "id": "toestate-RPOOMLQKJHKGFDK48DA",
+          "date": "2024-11-06",
+          "datePrecision": "day",
+          "address": "大埔五街248巷1號",
+          "total": 2100.0,
+          "area": 62.94,
+          "land": null,
+          "unit": 33.363,
+          "unitBasis": "ToEstate轉載申報單價；車位價格與權利未逐戶核實",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://toestate.tw/community/592367",
+          "official": false,
+          "serial": "RPOOMLQKJHKGFDK48DA",
+          "scope": "同巷透天；非已確認待售本戶",
+          "isNearby": false,
+          "note": "",
+          "checkedAt": "2026-10-11"
+        }
+      ],
+      "transactionScope": "ToEstate轉載同巷透天6筆，交易期2024-11-06–2024-11-09；沒有完整門牌，全部均非已確認本戶，未直接核對官方CSV。",
+      "crossListings": [
+        {
+          "url": "https://sale.591.com.tw/home/house/detail/2/21013353.html",
+          "platform": "591／同社區另一房仲刊登",
+          "match": "疑似同戶，尚未確認",
+          "price": 2398,
+          "description": "同社區、2398萬、62.94坪、3房2廳3衛、7米面寬及充電樁；另一刊登宣稱降價160萬。未有完整門牌，降價不歸入原刊登歷史。",
+          "basis": "同社區、相同開價及多項物件特徵一致；缺完整門牌或權狀核對。",
+          "checkedAt": "2026-10-11",
+          "caveat": "另一刊登的降價160萬屬其自身宣稱；未證實就是本戶，不計入此物件降價史。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://sale.591.com.tw/home/house/detail/2/20792485.html",
+          "label": "591原始物件",
+          "kind": "刊登資訊",
+          "checkedAt": "2026-10-11"
+        },
+        {
+          "url": "https://market.591.com.tw/5936876",
+          "label": "591社區與實價登錄",
+          "kind": "社區／成交平台",
+          "checkedAt": "2026-10-11"
+        },
+        {
+          "url": "https://toestate.tw/community/592367",
+          "label": "ToEstate同巷成交群組",
+          "kind": "平台轉載實價登錄",
+          "checkedAt": "2026-10-11"
+        },
+        {
+          "url": "https://sale.591.com.tw/home/house/detail/2/21013353.html",
+          "label": "591疑似同戶刊登",
+          "kind": "跨站／跨房仲刊登",
+          "checkedAt": "2026-10-11"
+        }
+      ],
+      "communityFacts": [
+        {
+          "label": "591社區戶數",
+          "value": "8戶（平台資料）"
+        },
+        {
+          "label": "591社區成交",
+          "value": "6筆；33.0萬/坪為平台統計，成交期集中2024年11月"
+        },
+        {
+          "label": "ToEstate同巷群組",
+          "value": "6棟／6筆；平台未附社區名稱，以地址與建坪比對"
+        }
+      ],
+      "communitySources": [
+        {
+          "url": "https://market.591.com.tw/5936876",
+          "label": "591社區資料"
+        },
+        {
+          "url": "https://toestate.tw/community/592367",
+          "label": "ToEstate同巷群組"
+        }
+      ],
+      "history": [
+        {
+          "date": "2026-10-11",
+          "description": "首次收錄591物件，觀察開價2,398萬；完整門牌、首次刊登日與委託起日未取得。ToEstate同巷成交只作歷史對照。"
+        }
+      ],
+      "sourceFacts": {
+        "address": {
+          "evidence_type": "platform_claim"
+        }
+      }
+    },
+    {
+      "id": "S20996843",
+      "name": "富比麗",
+      "address": "苗栗縣竹南鎮科專七路171巷",
+      "shortAddress": "科專七路171巷",
+      "sourceUrl": "https://sale.591.com.tw/home/house/detail/2/20996843.html",
+      "image": "https://img1.591.com.tw/house/2026/10/03/179103232355527608.jpg!1000x.water2.jpg",
+      "askingPrice": 2180,
+      "area": 56.41,
+      "mainArea": 49.68,
+      "accessoryArea": 6.725,
+      "landArea": 25.2,
+      "layout": "3房2廳4衛",
+      "rooms": 3,
+      "ageLabel": "2年",
+      "floorLabel": "整棟/4F",
+      "direction": "坐北朝南",
+      "managementFee": "無",
+      "legalUse": "集合住宅",
+      "parkingField": "平面式，已含售金內",
+      "parkingClaim": "文案宣稱室內車庫可停3車，並有全棟電梯",
+      "parkingArea": null,
+      "parkingPrice": null,
+      "broker": "台慶不動產-新竹三民金澤加盟店／品宅不動產仲介經紀有限公司",
+      "expiresAt": "2026-11-30",
+      "sourceUpdated": null,
+      "firstObserved": "2026-10-11",
+      "checkedAt": "2026-10-11",
+      "referenceSummary": "同巷7筆中位2,058萬｜開價+122萬",
+      "referenceCaveat": "ToEstate轉載內政部成交資料：7筆2024年同巷透天總價2,058–2,200萬，中位2,058萬；開價高122萬（5.9%）。591只顯示巷名，尚不能確認哪筆為本戶歷史交易；這是較早的歷史成交，裝潢、土地持分與停車口徑待核。",
+      "keyQuestion": "車庫三車位有無登記權利？與同巷2024年中位成交差122萬的條件為何？",
+      "issues": [
+        {
+          "title": "完整門牌未公開",
+          "detail": "591刊登只顯示科專七路171巷；同巷多戶權狀建坪56.41，不能把2024年2200萬或其他成交指定為本戶。591社區頁60號是社區代表地址。",
+          "sources": [
+            "https://sale.591.com.tw/home/house/detail/2/20996843.html",
+            "https://market.591.com.tw/5935132",
+            "https://toestate.tw/community/505270",
+            "https://toestate.tw/community/505271"
+          ]
+        },
+        {
+          "title": "車位欄位互相矛盾",
+          "detail": "原591刊登寫平面式、含售金，文案稱室內車庫可停三車；疑似同戶另一591刊登車位欄卻寫無。車庫可停數量、停車權利與價坪能否分拆需謄本／平面圖核實。",
+          "sources": [
+            "https://sale.591.com.tw/home/house/detail/2/20996843.html",
+            "https://sale.591.com.tw/home/house/detail/2/20979139.html"
+          ]
+        },
+        {
+          "title": "用途與電梯待核",
+          "detail": "591把此透天法定用途列為集合住宅，並宣稱全棟有電梯；需要使用執照、建物謄本與現場確認。",
+          "sources": [
+            "https://sale.591.com.tw/home/house/detail/2/20996843.html"
+          ]
+        },
+        {
+          "title": "2024年最高成交含特殊屋況備註",
+          "detail": "ToEstate同巷2200萬那筆轉載備註含傢俱設備費、陽台外推及頂樓加蓋；不是可直接套用的無調整行情，也無法認定為本戶。",
+          "sources": [
+            "https://toestate.tw/community/505271"
+          ]
+        }
+      ],
+      "transactions": [
+        {
+          "id": "toestate-RPQOMLRJQHJGFFK86DA",
+          "date": "2024-07-20",
+          "datePrecision": "day",
+          "address": "科專七路171巷66弄12號",
+          "total": 2200.0,
+          "area": 56.41,
+          "land": null,
+          "unit": 38.998,
+          "unitBasis": "ToEstate轉載申報單價；車位價格與權利未逐戶核實",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://toestate.tw/community/505271",
+          "official": false,
+          "serial": "RPQOMLRJQHJGFFK86DA",
+          "scope": "同巷透天；非已確認待售本戶",
+          "isNearby": false,
+          "note": "ToEstate轉載備註：一層可作停車空間總價含竹南鎮大同段1306-2地號持分面積8.635平方公尺,同段1306-14地號持分面積1.311平方公尺。含傢俱設備費;陽台外推;頂樓加蓋;",
+          "checkedAt": "2026-10-11"
+        },
+        {
+          "id": "toestate-RPROMLLJPHJGFDK68DA",
+          "date": "2024-05-25",
+          "datePrecision": "day",
+          "address": "科專七路171巷66弄1號",
+          "total": 2158.0,
+          "area": 57.21,
+          "land": null,
+          "unit": 37.7193,
+          "unitBasis": "ToEstate轉載申報單價；車位價格與權利未逐戶核實",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://toestate.tw/community/505270",
+          "official": false,
+          "serial": "RPROMLLJPHJGFDK68DA",
+          "scope": "同巷透天；非已確認待售本戶",
+          "isNearby": false,
+          "note": "ToEstate轉載備註：總價含頭份市信義段1172地號持分全部1172-12地號持分1/12",
+          "checkedAt": "2026-10-11"
+        },
+        {
+          "id": "toestate-RPQOMLLJPHJGFDK58DA",
+          "date": "2024-05-20",
+          "datePrecision": "day",
+          "address": "科專七路171巷66弄2號",
+          "total": 2158.0,
+          "area": 57.21,
+          "land": null,
+          "unit": 37.7193,
+          "unitBasis": "ToEstate轉載申報單價；車位價格與權利未逐戶核實",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://toestate.tw/community/505270",
+          "official": false,
+          "serial": "RPQOMLLJPHJGFDK58DA",
+          "scope": "同巷透天；非已確認待售本戶",
+          "isNearby": false,
+          "note": "ToEstate轉載備註：總價含頭份市信義段1172-6地號持分全部1172-12地號持分1/12",
+          "checkedAt": "2026-10-11"
+        },
+        {
+          "id": "toestate-RPUNMLLJPHJGFFK09DA",
+          "date": "2024-05-08",
+          "datePrecision": "day",
+          "address": "科專七路171巷66弄10號",
+          "total": 2058.0,
+          "area": 56.41,
+          "land": null,
+          "unit": 36.4807,
+          "unitBasis": "ToEstate轉載申報單價；車位價格與權利未逐戶核實",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://toestate.tw/community/505271",
+          "official": false,
+          "serial": "RPUNMLLJPHJGFFK09DA",
+          "scope": "同巷透天；非已確認待售本戶",
+          "isNearby": false,
+          "note": "ToEstate轉載備註：總價含竹南鎮大同段1306-2地號持分1/12大同段1306-14地號持分1/16",
+          "checkedAt": "2026-10-11"
+        },
+        {
+          "id": "toestate-RPOOMLLJPHJGFDK38DA",
+          "date": "2024-04-21",
+          "datePrecision": "day",
+          "address": "科專七路171巷66弄5號",
+          "total": 2058.0,
+          "area": 56.41,
+          "land": null,
+          "unit": 36.4807,
+          "unitBasis": "ToEstate轉載申報單價；車位價格與權利未逐戶核實",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://toestate.tw/community/505270",
+          "official": false,
+          "serial": "RPOOMLLJPHJGFDK38DA",
+          "scope": "同巷透天；非已確認待售本戶",
+          "isNearby": false,
+          "note": "ToEstate轉載備註：總價含頭份市信義段1172-2地號持分:全部1172-12地號持分1/12",
+          "checkedAt": "2026-10-11"
+        },
+        {
+          "id": "toestate-RPRNMLOLNHJGFFK09DA",
+          "date": "2024-04-21",
+          "datePrecision": "day",
+          "address": "科專七路171巷66弄6號",
+          "total": 2058.0,
+          "area": 56.41,
+          "land": null,
+          "unit": 36.4807,
+          "unitBasis": "ToEstate轉載申報單價；車位價格與權利未逐戶核實",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://toestate.tw/community/505271",
+          "official": false,
+          "serial": "RPRNMLOLNHJGFFK09DA",
+          "scope": "同巷透天；非已確認待售本戶",
+          "isNearby": false,
+          "note": "ToEstate轉載備註：總價含竹南鎮大同段1306-2地號持分1/121306-6地號持分全部1306-14地號持分1/16",
+          "checkedAt": "2026-10-11"
+        },
+        {
+          "id": "toestate-RPVNMLSJLHJGFDK66DA",
+          "date": "2024-01-23",
+          "datePrecision": "day",
+          "address": "科專七路171巷66弄7號",
+          "total": 2058.0,
+          "area": 56.41,
+          "land": null,
+          "unit": 36.4807,
+          "unitBasis": "ToEstate轉載申報單價；車位價格與權利未逐戶核實",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://toestate.tw/community/505270",
+          "official": false,
+          "serial": "RPVNMLSJLHJGFDK66DA",
+          "scope": "同巷透天；非已確認待售本戶",
+          "isNearby": false,
+          "note": "ToEstate轉載備註：總價含頭份市信義段1172-3地號持分全部信義段1172-12地號持分1/12",
+          "checkedAt": "2026-10-11"
+        },
+        {
+          "id": "toestate-RPOOMLQLJHJGFDK48DA",
+          "date": "2023-12-18",
+          "datePrecision": "day",
+          "address": "科專七路171巷66弄11號",
+          "total": 1758.0,
+          "area": 58.11,
+          "land": null,
+          "unit": 30.2545,
+          "unitBasis": "ToEstate轉載申報單價；車位價格與權利未逐戶核實",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://toestate.tw/community/505270",
+          "official": false,
+          "serial": "RPOOMLQLJHJGFDK48DA",
+          "scope": "同巷透天；非已確認待售本戶",
+          "isNearby": false,
+          "note": "ToEstate轉載備註：總價含頭份市信義段1172-5地號持分:全部、信義段1172-12地號持分:1/12",
+          "checkedAt": "2026-10-11"
+        },
+        {
+          "id": "toestate-RPVNMLLMJHJGFDK68DA",
+          "date": "2023-12-09",
+          "datePrecision": "day",
+          "address": "科專七路171巷66弄3號",
+          "total": 1588.0,
+          "area": 56.41,
+          "land": null,
+          "unit": 28.1494,
+          "unitBasis": "ToEstate轉載申報單價；車位價格與權利未逐戶核實",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://toestate.tw/community/505270",
+          "official": false,
+          "serial": "RPVNMLLMJHJGFDK68DA",
+          "scope": "同巷透天；非已確認待售本戶",
+          "isNearby": false,
+          "note": "ToEstate轉載備註：總價含頭份市信義段1172-1地號持分:全部、信義段1172-12地號持分:1/12",
+          "checkedAt": "2026-10-11"
+        },
+        {
+          "id": "toestate-RPXNMLQLJHJGFDK66DA",
+          "date": "2023-12-08",
+          "datePrecision": "day",
+          "address": "科專七路171巷70號",
+          "total": 1888.0,
+          "area": 63.83,
+          "land": null,
+          "unit": 29.5769,
+          "unitBasis": "ToEstate轉載申報單價；車位價格與權利未逐戶核實",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://toestate.tw/community/505270",
+          "official": false,
+          "serial": "RPXNMLQLJHJGFDK66DA",
+          "scope": "同巷透天；非已確認待售本戶",
+          "isNearby": false,
+          "note": "",
+          "checkedAt": "2026-10-11"
+        },
+        {
+          "id": "toestate-RPTOMLLMJHJGFFK78DA",
+          "date": "2023-12-05",
+          "datePrecision": "day",
+          "address": "科專七路171巷66弄16號",
+          "total": 1738.0,
+          "area": 58.11,
+          "land": null,
+          "unit": 29.9101,
+          "unitBasis": "ToEstate轉載申報單價；車位價格與權利未逐戶核實",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://toestate.tw/community/505271",
+          "official": false,
+          "serial": "RPTOMLLMJHJGFFK78DA",
+          "scope": "同巷透天；非已確認待售本戶",
+          "isNearby": false,
+          "note": "ToEstate轉載備註：總價含竹南鎮大同段1306-2地號持分:1/12、大同段1306-14地號持分1/16",
+          "checkedAt": "2026-10-11"
+        },
+        {
+          "id": "toestate-RPUNMLQLJHJGFDK98DA",
+          "date": "2023-12-02",
+          "datePrecision": "day",
+          "address": "科專七路171巷60號",
+          "total": 1908.0,
+          "area": 63.47,
+          "land": null,
+          "unit": 30.0598,
+          "unitBasis": "ToEstate轉載申報單價；車位價格與權利未逐戶核實",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://toestate.tw/community/505270",
+          "official": false,
+          "serial": "RPUNMLQLJHJGFDK98DA",
+          "scope": "同巷透天；非已確認待售本戶",
+          "isNearby": false,
+          "note": "",
+          "checkedAt": "2026-10-11"
+        },
+        {
+          "id": "toestate-RPWNMLQLJHJGFDK56DA",
+          "date": "2023-12-02",
+          "datePrecision": "day",
+          "address": "科專七路171巷68號",
+          "total": 1938.0,
+          "area": 63.47,
+          "land": null,
+          "unit": 30.5322,
+          "unitBasis": "ToEstate轉載申報單價；車位價格與權利未逐戶核實",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://toestate.tw/community/505270",
+          "official": false,
+          "serial": "RPWNMLQLJHJGFDK56DA",
+          "scope": "同巷透天；非已確認待售本戶",
+          "isNearby": false,
+          "note": "",
+          "checkedAt": "2026-10-11"
+        },
+        {
+          "id": "toestate-RPPNMLPJKHJGFFK48DA",
+          "date": "2023-12-02",
+          "datePrecision": "day",
+          "address": "科專七路171巷66弄12號",
+          "total": 1588.0,
+          "area": 56.41,
+          "land": null,
+          "unit": 28.1494,
+          "unitBasis": "ToEstate轉載申報單價；車位價格與權利未逐戶核實",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://toestate.tw/community/505271",
+          "official": false,
+          "serial": "RPPNMLPJKHJGFFK48DA",
+          "scope": "同巷透天；非已確認待售本戶",
+          "isNearby": false,
+          "note": "ToEstate轉載備註：總價含竹南鎮大同段1306-2地號持分:1/12、大同段1306-14地號持分1/16",
+          "checkedAt": "2026-10-11"
+        },
+        {
+          "id": "toestate-RPTPMLTKKHJGFDK76DA",
+          "date": "2023-12-02",
+          "datePrecision": "day",
+          "address": "科專七路171巷66弄9號",
+          "total": 1588.0,
+          "area": 56.41,
+          "land": null,
+          "unit": 28.1494,
+          "unitBasis": "ToEstate轉載申報單價；車位價格與權利未逐戶核實",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://toestate.tw/community/505270",
+          "official": false,
+          "serial": "RPTPMLTKKHJGFDK76DA",
+          "scope": "同巷透天；非已確認待售本戶",
+          "isNearby": false,
+          "note": "ToEstate轉載備註：總價含頭份市信義段1172-4地號持分:全部、信義段1172-12地號持分:1/12",
+          "checkedAt": "2026-10-11"
+        },
+        {
+          "id": "toestate-RPVNMLQLJHJGFDK09DA",
+          "date": "2023-11-27",
+          "datePrecision": "day",
+          "address": "科專七路171巷62號",
+          "total": 1858.0,
+          "area": 63.83,
+          "land": null,
+          "unit": 29.1071,
+          "unitBasis": "ToEstate轉載申報單價；車位價格與權利未逐戶核實",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://toestate.tw/community/505270",
+          "official": false,
+          "serial": "RPVNMLQLJHJGFDK09DA",
+          "scope": "同巷透天；非已確認待售本戶",
+          "isNearby": false,
+          "note": "",
+          "checkedAt": "2026-10-11"
+        },
+        {
+          "id": "toestate-RPQNMLMJKHJGFFK28DA",
+          "date": "2023-11-26",
+          "datePrecision": "day",
+          "address": "科專七路171巷66弄8號",
+          "total": 1858.0,
+          "area": 56.41,
+          "land": null,
+          "unit": 32.9355,
+          "unitBasis": "ToEstate轉載申報單價；車位價格與權利未逐戶核實",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://toestate.tw/community/505271",
+          "official": false,
+          "serial": "RPQNMLMJKHJGFFK28DA",
+          "scope": "同巷透天；非已確認待售本戶",
+          "isNearby": false,
+          "note": "ToEstate轉載備註：總價含竹南鎮大同段1306-2地號持分:1/12、大同段1306-14地號持分1/16",
+          "checkedAt": "2026-10-11"
+        }
+      ],
+      "transactionScope": "ToEstate轉載同巷透天17筆，交易期2023-11-26–2024-07-20；沒有完整門牌，全部均非已確認本戶，未直接核對官方CSV。",
+      "crossListings": [
+        {
+          "url": "https://sale.591.com.tw/home/house/detail/2/20979139.html",
+          "platform": "591／同社區另一房仲刊登",
+          "match": "疑似同戶，尚未確認",
+          "price": 2180,
+          "description": "同社區、2180萬、56.41坪、3房2廳4衛、25.2地坪、坐北朝南及三車位電梯敘述；另一刊登車位欄寫無，與原刊登平面式含價不同。仍未核實完整門牌。",
+          "basis": "同社區、相同開價及多項物件特徵一致；缺完整門牌或權狀核對。",
+          "checkedAt": "2026-10-11",
+          "caveat": "車位欄與本刊登不同；相似坪數及敘述尚不足確認同戶。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://sale.591.com.tw/home/house/detail/2/20996843.html",
+          "label": "591原始物件",
+          "kind": "刊登資訊",
+          "checkedAt": "2026-10-11"
+        },
+        {
+          "url": "https://market.591.com.tw/5935132",
+          "label": "591社區與實價登錄",
+          "kind": "社區／成交平台",
+          "checkedAt": "2026-10-11"
+        },
+        {
+          "url": "https://toestate.tw/community/505270",
+          "label": "ToEstate同巷成交群組",
+          "kind": "平台轉載實價登錄",
+          "checkedAt": "2026-10-11"
+        },
+        {
+          "url": "https://toestate.tw/community/505271",
+          "label": "ToEstate同巷成交群組",
+          "kind": "平台轉載實價登錄",
+          "checkedAt": "2026-10-11"
+        },
+        {
+          "url": "https://sale.591.com.tw/home/house/detail/2/20979139.html",
+          "label": "591疑似同戶刊登",
+          "kind": "跨站／跨房仲刊登",
+          "checkedAt": "2026-10-11"
+        }
+      ],
+      "communityFacts": [
+        {
+          "label": "591社區戶數",
+          "value": "16戶（平台資料）"
+        },
+        {
+          "label": "591社區成交",
+          "value": "17筆；30.5萬/坪為歷史混合均價，不宜直接比當前開價"
+        },
+        {
+          "label": "ToEstate同巷群組",
+          "value": "17筆，拆成11筆與6筆兩個平台群組；需與社區戶別核對"
+        }
+      ],
+      "communitySources": [
+        {
+          "url": "https://market.591.com.tw/5935132",
+          "label": "591社區資料"
+        },
+        {
+          "url": "https://toestate.tw/community/505270",
+          "label": "ToEstate同巷群組"
+        },
+        {
+          "url": "https://toestate.tw/community/505271",
+          "label": "ToEstate同巷群組"
+        }
+      ],
+      "history": [
+        {
+          "date": "2026-10-11",
+          "description": "首次收錄591物件，觀察開價2,180萬；完整門牌、首次刊登日與委託起日未取得。ToEstate同巷成交只作歷史對照。"
         }
       ],
       "sourceFacts": {

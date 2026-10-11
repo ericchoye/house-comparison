@@ -2,7 +2,7 @@
 <html lang="zh-Hant">
 <head>
   <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="竹南大埔看房比較：四間透天的開價、成交、跨站資訊與看房筆記。">
+  <meta name="description" content="竹南大埔看房比較：透天開價、成交、跨站資訊與看房筆記。">
   <meta name="color-scheme" content="light"><meta name="robots" content="noindex,nofollow"><title>看房筆記｜竹南大埔</title>
   <link rel="icon" type="image/svg+xml" href="./favicon.svg"><link rel="stylesheet" href="./styles.css">
   <script src="./app.js" defer></script>
@@ -11,12 +11,12 @@
   <a class="skip" href="#main">跳到物件清單</a>
   <header class="site-header">
     <a class="brand" href="./" aria-label="看房筆記首頁"><span class="brand-mark" aria-hidden="true">房</span><span>看房筆記<small>PROPERTY NOTEBOOK</small></span></a>
-    <nav aria-label="主要導覽"><button class="nav active" data-view="cards" aria-current="page">物件總覽</button><button class="nav" data-view="compare">並排比較 <span id="nav-count">4</span></button><button class="nav" data-view="issues">待確認事項</button></nav>
+    <nav aria-label="主要導覽"><button class="nav active" data-view="cards" aria-current="page">物件總覽</button><button class="nav" data-view="compare">並排比較 <span id="nav-count">0</span></button><button class="nav" data-view="issues">待確認事項</button></nav>
     <div class="header-actions"><button class="button quiet" id="method-button">資料說明</button><button class="button primary" id="add-button" hidden><span aria-hidden="true">＋</span> 新增物件</button></div>
   </header>
   <main id="main" tabindex="-1">
     <div class="page-heading"><div><p class="eyebrow">我的看房清單 <span>／</span> 苗栗・竹南</p><h1>大埔透天，放在一起比較。</h1><p class="page-description" id="checked-date">正在讀取你的看房資料…</p></div><div class="collection-note"><span class="note-line"></span><span>開價、成交、銀行估價<br><strong>各有依據，分開看。</strong></span></div></div>
-    <p class="public-banner">公開查閱版｜可在手機檢視四間物件與成交資料；私人筆記及銀行回覆不會在此顯示。</p><div class="overview-strip" id="overview"></div>
+    <p class="public-banner">公開查閱版｜可在手機檢視6間物件與成交資料；私人筆記及銀行回覆不會在此顯示。</p><div class="overview-strip" id="overview"></div>
     <section class="workspace" aria-label="物件比較工作區">
       <div class="toolbar">
         <label class="search-label"><span class="sr-only">搜尋社區或地址</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 4 4"/></svg><input id="search" type="search" placeholder="搜尋社區、地址或房仲" autocomplete="off"></label>
@@ -25,7 +25,7 @@
         <label class="sort-label"><span>排序</span><select id="sort"><option value="original">原始順序</option><option value="price-asc">總價低到高</option><option value="price-desc">總價高到低</option><option value="area-desc">建坪大到小</option></select></label>
       </div>
       <div class="results-heading"><div><h2 id="view-title">物件總覽</h2><span id="result-count" aria-live="polite"></span></div><div class="selection-actions"><button class="text-button" id="select-visible">選取顯示物件</button><button class="text-button" id="clear-selection">清除選取</button></div></div>
-      <div id="content"><div class="loading">正在整理四間物件…</div></div>
+      <div id="content"><div class="loading">正在整理看房物件…</div></div>
     </section>
     <section id="intake-section" class="intake-section" hidden></section>
     <footer class="page-footer"><span>公開查閱版；私人筆記及銀行紀錄留在本機。</span><button class="text-button" id="footer-method">查看比較方式與資料限制</button></footer>
