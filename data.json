@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "title": "大埔透天，放在一起比較。",
-  "location": "苗栗・竹南",
-  "updatedAt": "2026-10-11",
+  "title": "苗栗透天，放在一起比較。",
+  "location": "苗栗・竹南／頭份",
+  "updatedAt": "2026-10-26",
   "observedRange": [
     "2026-10-03",
-    "2026-10-11"
+    "2026-10-26"
   ],
-  "recentCutoff": "2025-10-11",
+  "recentCutoff": "2025-10-26",
   "officialBatch": {
     "name": "115S3",
     "source": "https://plvr.land.moi.gov.tw/DownloadSeason?season=115S3&type=zip&fileName=lvr_landcsv.zip",
@@ -3060,6 +3060,745 @@
         {
           "date": "2026-10-11",
           "description": "首次收錄591物件，觀察開價2,180萬；完整門牌、首次刊登日與委託起日未取得。ToEstate同巷成交只作歷史對照。"
+        }
+      ],
+      "sourceFacts": {
+        "address": {
+          "evidence_type": "platform_claim"
+        }
+      }
+    },
+    {
+      "id": "S21132955",
+      "name": "吾居吾墅",
+      "address": "苗栗縣頭份市尖豐路563巷",
+      "shortAddress": "尖豐路563巷",
+      "sourceUrl": "https://sale.591.com.tw/home/house/detail/2/21132955.html",
+      "image": "https://img2.591.com.tw/house/2026/10/25/179290386239877703.jpg!1000x.water2.jpg",
+      "askingPrice": 1298,
+      "area": 37.5,
+      "mainArea": null,
+      "accessoryArea": null,
+      "landArea": null,
+      "layout": "4房2廳3衛",
+      "rooms": 4,
+      "ageLabel": "8個月",
+      "floorLabel": "1F~3F/3F",
+      "direction": null,
+      "managementFee": "無",
+      "legalUse": "住家用",
+      "parkingField": "平面式，已含售金內",
+      "parkingClaim": "刊登宣稱前庭停車；權狀37.5坪標含車位，價坪未拆",
+      "parkingArea": null,
+      "parkingPrice": null,
+      "broker": "巨馥地產有限公司／吳嘉桓",
+      "expiresAt": "2026-12-24",
+      "sourceUpdated": null,
+      "firstObserved": "2026-10-26",
+      "checkedAt": "2026-10-26",
+      "referenceSummary": "缺近期成屋｜早期預售828–980萬",
+      "referenceCaveat": "同巷36–39坪15筆早期紀錄，排除2筆特殊關係及3筆配偶讓渡，剩10筆約37.55坪，2022年828–980萬；皆預售／分件登記，不能當現在合理價。缺本戶完整門牌與地坪",
+      "keyQuestion": "完整門牌、地坪、停車權利與四房實際尺寸待核",
+      "issues": [
+        {
+          "title": "完整門牌與地坪缺值",
+          "detail": "591僅公開尖豐路563巷，未取得土地坪數及主建物；不能套用其他同社區廣告約47坪土地或社區代表門牌。未對任意門牌做單戶模型。",
+          "sources": [
+            "https://sale.591.com.tw/home/house/detail/2/21132955.html",
+            "https://toestate.tw/community/593000"
+          ]
+        },
+        {
+          "title": "早期預售不能當近期成屋行情",
+          "detail": "ToEstate同巷交易日集中2022–2023年，備註預售／分件登記、早於2025-11-27完工；相近坪數正常10筆2022年828–980萬。1,298萬高於歷史上限約32.4%，但時間與本戶條件未調整，不能稱為高估幅度。",
+          "sources": [
+            "https://toestate.tw/community/593000",
+            "https://toestate.tw/project/27425"
+          ]
+        },
+        {
+          "title": "配偶讓渡漏標特殊，已人工排除",
+          "detail": "3筆原備註明示原價讓渡配偶，平台is_special卻false；另2筆平台標特殊關係，均不納一般歷史價格統計。",
+          "sources": [
+            "https://toestate.tw/community/593000"
+          ]
+        },
+        {
+          "title": "含車位及四房配置須實測",
+          "detail": "含車位37.5坪分布三層，尚無停車價坪拆分或室內實測。前庭權利、車輛進出、每房尺寸與採光要現場確認，不能把權狀總坪數當室內使用面積。",
+          "sources": [
+            "https://sale.591.com.tw/home/house/detail/2/21132955.html"
+          ]
+        },
+        {
+          "title": "屋齡與社區戶數口徑不同",
+          "detail": "591刊登8個月、社區89戶；ToEstate群組完工2025-11-27、目前41棟，僅為平台已整理建物數，不是全案41戶。完工日未以使用執照核對。",
+          "sources": [
+            "https://sale.591.com.tw/home/house/detail/2/21132955.html",
+            "https://market.591.com.tw/5885889",
+            "https://toestate.tw/community/593000"
+          ]
+        }
+      ],
+      "transactions": [
+        {
+          "id": "toestate-RPUNMLRJJHLGFFK66DA",
+          "date": "2023-03-19",
+          "datePrecision": "day",
+          "address": "尖豐路563巷5弄99號",
+          "total": 980.0,
+          "area": 37.55,
+          "land": null,
+          "unit": 26.1012,
+          "unitBasis": "平台轉載申報單價；未自行分拆停車，0元車位不代表現場無法停車",
+          "phase": "presale_or_separate_registration",
+          "phaseLabel": "歷史預售／分件登記",
+          "url": "https://toestate.tw/community/593000",
+          "official": false,
+          "serial": "RPUNMLRJJHLGFFK66DA",
+          "scope": "同社區相近坪數；非已確認本戶，歷史預售／分件登記",
+          "isNearby": false,
+          "note": "原所有權人於115年1月5日簽訂讓渡書,依原預定買賣契約書總價980萬元讓渡配偶。預售屋、或土地及建物分件登記案件; 此筆配偶讓渡／特殊關係交易，排除一般價格統計。 交易早於完工，不併入近期成屋行情。 本次未直接核對官方原始CSV。",
+          "checkedAt": "2026-10-26"
+        },
+        {
+          "id": "toestate-RPWNMLKKLHLGFFK09DA",
+          "date": "2022-12-31",
+          "datePrecision": "day",
+          "address": "尖豐路563巷5弄48號",
+          "total": 938.0,
+          "area": 37.55,
+          "land": null,
+          "unit": 24.9825,
+          "unitBasis": "平台轉載申報單價；未自行分拆停車，0元車位不代表現場無法停車",
+          "phase": "presale_or_separate_registration",
+          "phaseLabel": "歷史預售／分件登記",
+          "url": "https://toestate.tw/community/593000",
+          "official": false,
+          "serial": "RPWNMLKKLHLGFFK09DA",
+          "scope": "同社區相近坪數；非已確認本戶，歷史預售／分件登記",
+          "isNearby": false,
+          "note": "預售屋、或土地及建物分件登記案件; 交易早於完工，不併入近期成屋行情。 本次未直接核對官方原始CSV。",
+          "checkedAt": "2026-10-26"
+        },
+        {
+          "id": "toestate-RPXNMLMKNHLGFFK96DA",
+          "date": "2022-12-24",
+          "datePrecision": "day",
+          "address": "尖豐路563巷5弄119號",
+          "total": 980.0,
+          "area": 37.55,
+          "land": null,
+          "unit": 26.1012,
+          "unitBasis": "平台轉載申報單價；未自行分拆停車，0元車位不代表現場無法停車",
+          "phase": "presale_or_separate_registration",
+          "phaseLabel": "歷史預售／分件登記",
+          "url": "https://toestate.tw/community/593000",
+          "official": false,
+          "serial": "RPXNMLMKNHLGFFK96DA",
+          "scope": "同社區相近坪數；非已確認本戶，歷史預售／分件登記",
+          "isNearby": false,
+          "note": "預售屋、或土地及建物分件登記案件; 交易早於完工，不併入近期成屋行情。 本次未直接核對官方原始CSV。",
+          "checkedAt": "2026-10-26"
+        },
+        {
+          "id": "toestate-RPOPMLPJLHLGFFK88DA",
+          "date": "2022-12-24",
+          "datePrecision": "day",
+          "address": "尖豐路563巷5弄117號",
+          "total": 980.0,
+          "area": 37.55,
+          "land": null,
+          "unit": 26.1012,
+          "unitBasis": "平台轉載申報單價；未自行分拆停車，0元車位不代表現場無法停車",
+          "phase": "presale_or_separate_registration",
+          "phaseLabel": "歷史預售／分件登記",
+          "url": "https://toestate.tw/community/593000",
+          "official": false,
+          "serial": "RPOPMLPJLHLGFFK88DA",
+          "scope": "同社區相近坪數；非已確認本戶，歷史預售／分件登記",
+          "isNearby": false,
+          "note": "預售屋、或土地及建物分件登記案件; 交易早於完工，不併入近期成屋行情。 本次未直接核對官方原始CSV。",
+          "checkedAt": "2026-10-26"
+        },
+        {
+          "id": "toestate-RPTNMLMKQHLGFFK86DA",
+          "date": "2022-10-31",
+          "datePrecision": "day",
+          "address": "尖豐路563巷5弄95號",
+          "total": 958.0,
+          "area": 37.55,
+          "land": null,
+          "unit": 25.515,
+          "unitBasis": "平台轉載申報單價；未自行分拆停車，0元車位不代表現場無法停車",
+          "phase": "presale_or_separate_registration",
+          "phaseLabel": "歷史預售／分件登記",
+          "url": "https://toestate.tw/community/593000",
+          "official": false,
+          "serial": "RPTNMLMKQHLGFFK86DA",
+          "scope": "同社區相近坪數；非已確認本戶，歷史預售／分件登記",
+          "isNearby": false,
+          "note": "預售屋、或土地及建物分件登記案件; 交易早於完工，不併入近期成屋行情。 本次未直接核對官方原始CSV。",
+          "checkedAt": "2026-10-26"
+        },
+        {
+          "id": "toestate-RPOOMLRJJHLGFFK78DA",
+          "date": "2022-10-31",
+          "datePrecision": "day",
+          "address": "尖豐路563巷5弄91號",
+          "total": 955.0,
+          "area": 37.63,
+          "land": null,
+          "unit": 25.3802,
+          "unitBasis": "平台轉載申報單價；未自行分拆停車，0元車位不代表現場無法停車",
+          "phase": "presale_or_separate_registration",
+          "phaseLabel": "歷史預售／分件登記",
+          "url": "https://toestate.tw/community/593000",
+          "official": false,
+          "serial": "RPOOMLRJJHLGFFK78DA",
+          "scope": "同社區相近坪數；非已確認本戶，歷史預售／分件登記",
+          "isNearby": false,
+          "note": "原所有權人於115年1月5日簽訂讓渡書,依原預定買賣契約書總價955萬元讓渡配偶。預售屋、或土地及建物分件登記案件; 此筆配偶讓渡／特殊關係交易，排除一般價格統計。 交易早於完工，不併入近期成屋行情。 本次未直接核對官方原始CSV。",
+          "checkedAt": "2026-10-26"
+        },
+        {
+          "id": "toestate-SPOOMLRJJHLGFFK88DA",
+          "date": "2022-10-15",
+          "datePrecision": "day",
+          "address": "尖豐路563巷5弄93號",
+          "total": 938.0,
+          "area": 37.63,
+          "land": null,
+          "unit": 24.9283,
+          "unitBasis": "平台轉載申報單價；未自行分拆停車，0元車位不代表現場無法停車",
+          "phase": "presale_or_separate_registration",
+          "phaseLabel": "歷史預售／分件登記",
+          "url": "https://toestate.tw/community/593000",
+          "official": false,
+          "serial": "SPOOMLRJJHLGFFK88DA",
+          "scope": "同社區相近坪數；非已確認本戶，歷史預售／分件登記",
+          "isNearby": false,
+          "note": "原所有權人於115年1月5日簽訂讓渡書,依原預定買賣契約書總價938萬元讓渡配偶。預售屋、或土地及建物分件登記案件; 此筆配偶讓渡／特殊關係交易，排除一般價格統計。 交易早於完工，不併入近期成屋行情。 本次未直接核對官方原始CSV。",
+          "checkedAt": "2026-10-26"
+        },
+        {
+          "id": "toestate-RPVNMLRLNHLGFFK37DA",
+          "date": "2022-10-10",
+          "datePrecision": "day",
+          "address": "尖豐路563巷5弄129號",
+          "total": 875.0,
+          "area": 37.55,
+          "land": null,
+          "unit": 23.3045,
+          "unitBasis": "平台轉載申報單價；未自行分拆停車，0元車位不代表現場無法停車",
+          "phase": "presale_or_separate_registration",
+          "phaseLabel": "歷史預售／分件登記",
+          "url": "https://toestate.tw/community/593000",
+          "official": false,
+          "serial": "RPVNMLRLNHLGFFK37DA",
+          "scope": "同社區相近坪數；非已確認本戶，歷史預售／分件登記",
+          "isNearby": false,
+          "note": "預售屋、或土地及建物分件登記案件; 交易早於完工，不併入近期成屋行情。 本次未直接核對官方原始CSV。",
+          "checkedAt": "2026-10-26"
+        },
+        {
+          "id": "toestate-RPSNMLMKQHLGFFK76DA",
+          "date": "2022-10-08",
+          "datePrecision": "day",
+          "address": "尖豐路563巷5弄89號",
+          "total": 918.0,
+          "area": 37.55,
+          "land": null,
+          "unit": 24.4499,
+          "unitBasis": "平台轉載申報單價；未自行分拆停車，0元車位不代表現場無法停車",
+          "phase": "presale_or_separate_registration",
+          "phaseLabel": "歷史預售／分件登記",
+          "url": "https://toestate.tw/community/593000",
+          "official": false,
+          "serial": "RPSNMLMKQHLGFFK76DA",
+          "scope": "同社區相近坪數；非已確認本戶，歷史預售／分件登記",
+          "isNearby": false,
+          "note": "預售屋、或土地及建物分件登記案件; 交易早於完工，不併入近期成屋行情。 本次未直接核對官方原始CSV。",
+          "checkedAt": "2026-10-26"
+        },
+        {
+          "id": "toestate-RPWNMLTJMHLGFFK37DA",
+          "date": "2022-10-01",
+          "datePrecision": "day",
+          "address": "尖豐路563巷5弄111號",
+          "total": 878.0,
+          "area": 37.55,
+          "land": null,
+          "unit": 23.3845,
+          "unitBasis": "平台轉載申報單價；未自行分拆停車，0元車位不代表現場無法停車",
+          "phase": "presale_or_separate_registration",
+          "phaseLabel": "歷史預售／分件登記",
+          "url": "https://toestate.tw/community/593000",
+          "official": false,
+          "serial": "RPWNMLTJMHLGFFK37DA",
+          "scope": "同社區相近坪數；非已確認本戶，歷史預售／分件登記",
+          "isNearby": false,
+          "note": "預售屋、或土地及建物分件登記案件; 交易早於完工，不併入近期成屋行情。 本次未直接核對官方原始CSV。",
+          "checkedAt": "2026-10-26"
+        },
+        {
+          "id": "toestate-RPTOMLPJLHLGFFK66DA",
+          "date": "2022-08-05",
+          "datePrecision": "day",
+          "address": "尖豐路563巷5弄50號",
+          "total": 915.0,
+          "area": 37.55,
+          "land": null,
+          "unit": 24.3699,
+          "unitBasis": "平台轉載申報單價；未自行分拆停車，0元車位不代表現場無法停車",
+          "phase": "presale_or_separate_registration",
+          "phaseLabel": "歷史預售／分件登記",
+          "url": "https://toestate.tw/community/593000",
+          "official": false,
+          "serial": "RPTOMLPJLHLGFFK66DA",
+          "scope": "同社區相近坪數；非已確認本戶，歷史預售／分件登記",
+          "isNearby": false,
+          "note": "親友、員工、共有人或其他特殊關係間之交易;預售屋、或土地及建物分件登記案件; 此筆配偶讓渡／特殊關係交易，排除一般價格統計。 交易早於完工，不併入近期成屋行情。 本次未直接核對官方原始CSV。",
+          "checkedAt": "2026-10-26"
+        },
+        {
+          "id": "toestate-RPUOMLPJLHLGFFK76DA",
+          "date": "2022-07-16",
+          "datePrecision": "day",
+          "address": "尖豐路563巷5弄121號",
+          "total": 855.0,
+          "area": 37.55,
+          "land": null,
+          "unit": 22.7719,
+          "unitBasis": "平台轉載申報單價；未自行分拆停車，0元車位不代表現場無法停車",
+          "phase": "presale_or_separate_registration",
+          "phaseLabel": "歷史預售／分件登記",
+          "url": "https://toestate.tw/community/593000",
+          "official": false,
+          "serial": "RPUOMLPJLHLGFFK76DA",
+          "scope": "同社區相近坪數；非已確認本戶，歷史預售／分件登記",
+          "isNearby": false,
+          "note": "親友、員工、共有人或其他特殊關係間之交易;預售屋、或土地及建物分件登記案件; 此筆配偶讓渡／特殊關係交易，排除一般價格統計。 交易早於完工，不併入近期成屋行情。 本次未直接核對官方原始CSV。",
+          "checkedAt": "2026-10-26"
+        },
+        {
+          "id": "toestate-RPRNMLRLPHLGFFK17DA",
+          "date": "2022-07-16",
+          "datePrecision": "day",
+          "address": "尖豐路563巷5弄46號",
+          "total": 898.0,
+          "area": 37.55,
+          "land": null,
+          "unit": 23.917,
+          "unitBasis": "平台轉載申報單價；未自行分拆停車，0元車位不代表現場無法停車",
+          "phase": "presale_or_separate_registration",
+          "phaseLabel": "歷史預售／分件登記",
+          "url": "https://toestate.tw/community/593000",
+          "official": false,
+          "serial": "RPRNMLRLPHLGFFK17DA",
+          "scope": "同社區相近坪數；非已確認本戶，歷史預售／分件登記",
+          "isNearby": false,
+          "note": "預售屋、或土地及建物分件登記案件; 交易早於完工，不併入近期成屋行情。 本次未直接核對官方原始CSV。",
+          "checkedAt": "2026-10-26"
+        },
+        {
+          "id": "toestate-RPVNMLMKNHLGFFK76DA",
+          "date": "2022-07-12",
+          "datePrecision": "day",
+          "address": "尖豐路563巷5弄56號",
+          "total": 845.0,
+          "area": 37.55,
+          "land": null,
+          "unit": 22.5055,
+          "unitBasis": "平台轉載申報單價；未自行分拆停車，0元車位不代表現場無法停車",
+          "phase": "presale_or_separate_registration",
+          "phaseLabel": "歷史預售／分件登記",
+          "url": "https://toestate.tw/community/593000",
+          "official": false,
+          "serial": "RPVNMLMKNHLGFFK76DA",
+          "scope": "同社區相近坪數；非已確認本戶，歷史預售／分件登記",
+          "isNearby": false,
+          "note": "預售屋、或土地及建物分件登記案件; 交易早於完工，不併入近期成屋行情。 本次未直接核對官方原始CSV。",
+          "checkedAt": "2026-10-26"
+        },
+        {
+          "id": "toestate-RPUNMLMKQHLGFFK96DA",
+          "date": "2022-07-12",
+          "datePrecision": "day",
+          "address": "尖豐路563巷5弄101號",
+          "total": 828.0,
+          "area": 37.55,
+          "land": null,
+          "unit": 22.0529,
+          "unitBasis": "平台轉載申報單價；未自行分拆停車，0元車位不代表現場無法停車",
+          "phase": "presale_or_separate_registration",
+          "phaseLabel": "歷史預售／分件登記",
+          "url": "https://toestate.tw/community/593000",
+          "official": false,
+          "serial": "RPUNMLMKQHLGFFK96DA",
+          "scope": "同社區相近坪數；非已確認本戶，歷史預售／分件登記",
+          "isNearby": false,
+          "note": "預售屋、或土地及建物分件登記案件; 交易早於完工，不併入近期成屋行情。 本次未直接核對官方原始CSV。",
+          "checkedAt": "2026-10-26"
+        }
+      ],
+      "transactionScope": "ToEstate同巷36–39坪15筆，交易期2022–2023年；全部早於完工。配偶／特殊關係5筆排除一般統計，正常10筆仍只作2022歷史預售對照。非近期成屋鑑價。",
+      "crossListings": [],
+      "sources": [
+        {
+          "url": "https://sale.591.com.tw/home/house/detail/2/21132955.html",
+          "label": "591原始刊登・CUA可見原頁",
+          "kind": "刊登資訊",
+          "checkedAt": "2026-10-26"
+        },
+        {
+          "url": "https://market.591.com.tw/5885889",
+          "label": "591社區資料",
+          "kind": "社區／實登轉載",
+          "checkedAt": "2026-10-26"
+        },
+        {
+          "url": "https://toestate.tw/community/593000",
+          "label": "ToEstate社區及成交",
+          "kind": "插件實登轉載，未直接核對官方CSV",
+          "checkedAt": "2026-10-26"
+        },
+        {
+          "url": "https://toestate.tw/project/27425",
+          "label": "ToEstate吾居吾墅建案",
+          "kind": "歷史預售轉載",
+          "checkedAt": "2026-10-26"
+        }
+      ],
+      "communityFacts": [
+        {
+          "label": "建商（ToEstate建案）",
+          "value": "大千建設股份有限公司"
+        },
+        {
+          "label": "戶數（591社區）",
+          "value": "89戶；ToEstate41棟為已整理群組數，語意不同"
+        },
+        {
+          "label": "完工日（ToEstate群組）",
+          "value": "2025-11-27，未核使用執照"
+        },
+        {
+          "label": "國小距離（社區代表點）",
+          "value": "尖山國小約846公尺直線；不是本戶步行路線或學區確認"
+        }
+      ],
+      "communitySources": [
+        {
+          "url": "https://market.591.com.tw/5885889",
+          "label": "591社區"
+        },
+        {
+          "url": "https://toestate.tw/community/593000",
+          "label": "ToEstate"
+        },
+        {
+          "url": "https://toestate.tw/project/27425",
+          "label": "ToEstate建案"
+        }
+      ],
+      "history": [
+        {
+          "date": "2026-10-26",
+          "description": "首次收錄此591刊登，觀察開價1,298萬、建坪37.5坪；完成ToEstate比較研究。首次刊登、委託起日及銀行鑑價尚未取得。"
+        }
+      ],
+      "sourceFacts": {
+        "address": {
+          "evidence_type": "platform_claim"
+        }
+      }
+    },
+    {
+      "id": "S20966119",
+      "name": "氧樂多 B17",
+      "address": "苗栗縣頭份市新興街18巷68弄82號之15",
+      "shortAddress": "新興街18巷68弄82號之15",
+      "sourceUrl": "https://sale.591.com.tw/home/house/detail/2/20966119.html",
+      "image": "https://img1.591.com.tw/house/2026/01/23/176917028506285706.jpg!1000x.water2.jpg",
+      "askingPrice": 1375,
+      "area": 37.84,
+      "mainArea": null,
+      "accessoryArea": null,
+      "landArea": 31.11,
+      "layout": "3房2廳3衛2陽台",
+      "rooms": 3,
+      "ageLabel": "1年",
+      "floorLabel": "整棟/3F",
+      "direction": null,
+      "managementFee": "無",
+      "legalUse": "集合住宅",
+      "parkingField": "無",
+      "parkingClaim": "文案稱門前停車、側面有加購車位；是否含售價及權利待核",
+      "parkingArea": null,
+      "parkingPrice": null,
+      "broker": "永慶不動產樹林樹新加盟店／凡晞不動產有限公司",
+      "expiresAt": "2026-11-24",
+      "sourceUpdated": null,
+      "firstObserved": "2026-10-26",
+      "checkedAt": "2026-10-26",
+      "referenceSummary": "同坪近期1,030–1,250萬｜開價偏高",
+      "referenceCaveat": "同社區37.84坪一般成屋4筆，2025-11至2026-08成交1,030–1,250萬，中位1,124萬；本案高於上限125萬（10%）。加購停車是否含價、權利及逐戶地坪未核，區間不是個案鑑價",
+      "keyQuestion": "1,375萬是否含加購車位？相對同坪近期成交多125–345萬",
+      "issues": [
+        {
+          "title": "開價高於近期同坪成交",
+          "detail": "同社區37.84坪一般成屋四筆1,030／1,168／1,080／1,250萬，本案1,375萬高於上限10%、比2026-08的1,168萬高17.7%。須由實際停車、屋況或位置條件支持差額，不作個案鑑價。",
+          "sources": [
+            "https://toestate.tw/community/593041",
+            "https://market.591.com.tw/5935829"
+          ]
+        },
+        {
+          "title": "加購車位是否含價與移轉權利待核",
+          "detail": "591車位欄無，標題另購停車、文案側面有加購車位。需確認1,375萬是否已包含、是否可隨屋移轉，以及獨立產權／持分／專用權或租用的性質。不得套一般大樓車位價值。",
+          "sources": [
+            "https://sale.591.com.tw/home/house/detail/2/20966119.html",
+            "https://www.rtube.com.tw/real-estates/RE1780479639253167"
+          ]
+        },
+        {
+          "title": "主建物與用途資料衝突",
+          "detail": "591主建物37.84坪、法定用途集合住宅；R.TUBE疑似同戶B17寫主建33.31、附屬4.52坪，ToEstate門牌用途住家用。保留分來源數字，待謄本／使用執照核對。",
+          "sources": [
+            "https://sale.591.com.tw/home/house/detail/2/20966119.html",
+            "https://www.rtube.com.tw/real-estates/RE1780479639253167",
+            "https://toestate.tw/community/593041"
+          ]
+        },
+        {
+          "title": "模型未計入未核實停車權利",
+          "detail": "ToEstate offer參考約1,166萬、統計區間1,078–1,248萬，開價高17.9%。算法為案例加權中位與模型綜合參考單價乘37.84坪，區間按25–75百分位比例換算。無獨立車位為平台假設，加購權利未估入，非建議出價或銀行鑑價。",
+          "sources": [
+            "https://toestate.tw/community/593041"
+          ]
+        },
+        {
+          "title": "特殊與歷史交易分開",
+          "detail": "2026-06的82-3號1,128萬為特殊關係，排除四筆一般比較。自身82-15號2024-02-29的1,103萬為預售或分件登記，不當近期成屋行情；1,530萬那戶建46.93坪較大。",
+          "sources": [
+            "https://toestate.tw/community/593041"
+          ]
+        }
+      ],
+      "transactions": [
+        {
+          "id": "toestate-RPSNMLOLQHLGFFK07DA",
+          "date": "2026-08-23",
+          "datePrecision": "day",
+          "address": "新興街18巷68弄80-18號",
+          "total": 1030.0,
+          "area": 37.84,
+          "land": null,
+          "unit": 27.2221,
+          "unitBasis": "平台轉載申報單價；未自行分拆停車，0元車位不代表現場無法停車",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://toestate.tw/community/593041",
+          "official": false,
+          "serial": "RPSNMLOLQHLGFFK07DA",
+          "scope": "同社區不同戶，逐戶土地與停車差異待核",
+          "isNearby": false,
+          "note": "平台未回傳備註，不代表已查無屋況或產權問題。 本次未直接核對官方原始CSV。",
+          "checkedAt": "2026-10-26"
+        },
+        {
+          "id": "toestate-RPSNMLQKRHLGFFK27DA",
+          "date": "2026-08-02",
+          "datePrecision": "day",
+          "address": "新興街18巷68弄80-15號",
+          "total": 1168.0,
+          "area": 37.84,
+          "land": null,
+          "unit": 30.8694,
+          "unitBasis": "平台轉載申報單價；未自行分拆停車，0元車位不代表現場無法停車",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://toestate.tw/community/593041",
+          "official": false,
+          "serial": "RPSNMLQKRHLGFFK27DA",
+          "scope": "同社區不同戶，逐戶土地與停車差異待核",
+          "isNearby": false,
+          "note": "平台未回傳備註，不代表已查無屋況或產權問題。 本次未直接核對官方原始CSV。",
+          "checkedAt": "2026-10-26"
+        },
+        {
+          "id": "toestate-RPXNMLPKPHLGFFK47DA",
+          "date": "2026-06-24",
+          "datePrecision": "day",
+          "address": "新興街18巷68弄82-3號",
+          "total": 1128.0,
+          "area": 37.84,
+          "land": null,
+          "unit": 29.8122,
+          "unitBasis": "平台轉載申報單價；未自行分拆停車，0元車位不代表現場無法停車",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://toestate.tw/community/593041",
+          "official": false,
+          "serial": "RPXNMLPKPHLGFFK47DA",
+          "scope": "同社區不同戶，逐戶土地與停車差異待核",
+          "isNearby": false,
+          "note": "親友、員工、共有人或其他特殊關係間之交易; 此筆配偶讓渡／特殊關係交易，排除一般價格統計。 本次未直接核對官方原始CSV。",
+          "checkedAt": "2026-10-26"
+        },
+        {
+          "id": "toestate-RPTNMLMJOHLGFFK56DA",
+          "date": "2026-05-19",
+          "datePrecision": "day",
+          "address": "新興街18巷68弄80-12號",
+          "total": 1080.0,
+          "area": 37.84,
+          "land": null,
+          "unit": 28.5438,
+          "unitBasis": "平台轉載申報單價；未自行分拆停車，0元車位不代表現場無法停車",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://toestate.tw/community/593041",
+          "official": false,
+          "serial": "RPTNMLMJOHLGFFK56DA",
+          "scope": "同社區不同戶，逐戶土地與停車差異待核",
+          "isNearby": false,
+          "note": "平台未回傳備註，不代表已查無屋況或產權問題。 本次未直接核對官方原始CSV。",
+          "checkedAt": "2026-10-26"
+        },
+        {
+          "id": "toestate-RPVNMLOKJHLGFFK56DA",
+          "date": "2025-11-07",
+          "datePrecision": "day",
+          "address": "新興街18巷68弄80-19號",
+          "total": 1250.0,
+          "area": 37.84,
+          "land": null,
+          "unit": 33.0367,
+          "unitBasis": "平台轉載申報單價；未自行分拆停車，0元車位不代表現場無法停車",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://toestate.tw/community/593041",
+          "official": false,
+          "serial": "RPVNMLOKJHLGFFK56DA",
+          "scope": "同社區不同戶，逐戶土地與停車差異待核",
+          "isNearby": false,
+          "note": "平台未回傳備註，不代表已查無屋況或產權問題。 本次未直接核對官方原始CSV。",
+          "checkedAt": "2026-10-26"
+        },
+        {
+          "id": "toestate-RPSNMLKMPHKGFFK56DA",
+          "date": "2025-07-20",
+          "datePrecision": "day",
+          "address": "新興街18巷68弄82號",
+          "total": 1530.0,
+          "area": 46.93,
+          "land": null,
+          "unit": 32.602,
+          "unitBasis": "平台轉載申報單價；未自行分拆停車，0元車位不代表現場無法停車",
+          "phase": "resale",
+          "phaseLabel": "成屋買賣",
+          "url": "https://toestate.tw/community/593041",
+          "official": false,
+          "serial": "RPSNMLKMPHKGFFK56DA",
+          "scope": "同社區不同戶，逐戶土地與停車差異待核",
+          "isNearby": false,
+          "note": "平台未回傳備註，不代表已查無屋況或產權問題。 本次未直接核對官方原始CSV。 建坪46.93較大，不以總價直接比較37.84坪本案，排除四筆同坪統計。",
+          "checkedAt": "2026-10-26"
+        },
+        {
+          "id": "toestate-RPOPMLKKLHKGFFK38DA",
+          "date": "2024-02-29",
+          "datePrecision": "day",
+          "address": "新興街18巷68弄82-15號",
+          "total": 1103.0,
+          "area": 37.84,
+          "land": null,
+          "unit": 29.1517,
+          "unitBasis": "平台轉載申報單價；未自行分拆停車，0元車位不代表現場無法停車",
+          "phase": "presale_or_separate_registration",
+          "phaseLabel": "歷史預售／分件登記",
+          "url": "https://toestate.tw/community/593041",
+          "official": false,
+          "serial": "RPOPMLKKLHKGFFK38DA",
+          "scope": "同門牌82-15號歷史預售／分件登記；非近期成屋",
+          "isNearby": false,
+          "note": "預售屋、或土地及建物分件登記案件; 交易早於完工，不併入近期成屋行情。 本次未直接核對官方原始CSV。",
+          "checkedAt": "2026-10-26"
+        }
+      ],
+      "transactionScope": "ToEstate同社區7筆：同37.84坪近期一般成屋4筆、特殊關係1筆、較大46.93坪1筆、本門牌歷史預售／分件登記1筆；四筆近期區間不含特殊、歷史或較大戶。平台轉載非本次直接官方核對。",
+      "crossListings": [
+        {
+          "url": "https://www.rtube.com.tw/real-estates/RE1780479639253167",
+          "platform": "R.TUBE／永慶頭份自強和平加盟店",
+          "match": "高度疑似同戶，未以完整門牌確認",
+          "price": 1375,
+          "description": "同B17標題、37.84坪、3房2廳3衛、加購停車；主建33.31、附屬4.52、地31.1坪",
+          "basis": "戶別B17、開價、建坪、格局及五項文案高度一致；該頁未公開完整門牌，保留疑似配對。",
+          "checkedAt": "2026-10-26",
+          "caveat": "主建物與591不同，不合併為已核對產權數字或降價史。"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://sale.591.com.tw/home/house/detail/2/20966119.html",
+          "label": "591原始刊登・CUA可見原頁",
+          "kind": "刊登資訊",
+          "checkedAt": "2026-10-26"
+        },
+        {
+          "url": "https://market.591.com.tw/5935829",
+          "label": "591社區資料",
+          "kind": "社區／實登轉載",
+          "checkedAt": "2026-10-26"
+        },
+        {
+          "url": "https://toestate.tw/community/593041",
+          "label": "ToEstate社區及成交",
+          "kind": "插件實登轉載，未直接核對官方CSV",
+          "checkedAt": "2026-10-26"
+        },
+        {
+          "url": "https://www.rtube.com.tw/real-estates/RE1780479639253167",
+          "label": "R.TUBE氧樂多B17",
+          "kind": "疑似同戶刊登及面積衝突",
+          "checkedAt": "2026-10-26"
+        }
+      ],
+      "communityFacts": [
+        {
+          "label": "戶數（591）",
+          "value": 43
+        },
+        {
+          "label": "完工日（ToEstate）",
+          "value": "2025-03-05，未核使用執照"
+        },
+        {
+          "label": "國小距離（門牌座標）",
+          "value": "新興國小約534公尺直線；不是步行路線或學區確認"
+        },
+        {
+          "label": "裝潢（刊登）",
+          "value": "尚未裝潢；全新空屋，需另估裝修預算"
+        }
+      ],
+      "communitySources": [
+        {
+          "url": "https://market.591.com.tw/5935829",
+          "label": "591社區"
+        },
+        {
+          "url": "https://toestate.tw/community/593041",
+          "label": "ToEstate"
+        }
+      ],
+      "history": [
+        {
+          "date": "2026-10-26",
+          "description": "首次收錄此591刊登，觀察開價1,375萬、建坪37.84坪；完成ToEstate比較研究。首次刊登、委託起日及銀行鑑價尚未取得。"
         }
       ],
       "sourceFacts": {
